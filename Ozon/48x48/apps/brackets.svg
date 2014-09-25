@@ -19,6 +19,17 @@
   <defs
      id="defs4232">
     <linearGradient
+       id="linearGradient3068">
+      <stop
+         style="stop-color:#dfdfdf;stop-opacity:1;"
+         offset="0"
+         id="stop3070" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3072" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4524">
       <stop
          style="stop-color:#0071bc;stop-opacity:1;"
@@ -229,6 +240,16 @@
        y1="28.000042"
        x2="12.5"
        y2="17.000042" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3068"
+       id="linearGradient3074"
+       x1="85"
+       y1="46"
+       x2="85"
+       y2="1.999983"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86363632,0,0,0.81818178,-48.545451,2.8636513)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -237,9 +258,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="22.747335"
-     inkscape:cy="28.176424"
+     inkscape:zoom="11.313708"
+     inkscape:cx="28.355601"
+     inkscape:cy="23.797652"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -396,9 +417,18 @@
        y="1.9999826"
        ry="9"
        rx="9" />
+    <rect
+       rx="9"
+       ry="9"
+       y="4.5"
+       x="5"
+       height="36"
+       width="38"
+       id="rect3064"
+       style="fill:url(#linearGradient3074);fill-opacity:1;stroke:none" />
     <g
        id="g3063"
-       transform="translate(1.7499981,-2.117)">
+       transform="translate(1.7499981,-2.617)">
       <path
          style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
          d="m 9.2500018,12.617 0,26 11.0169492,0 0,-4.966 -6.050949,0 0,-16.068 6.050949,0 0,-4.966 z m 14.9830512,0 0,4.966 6.050949,0 0,16.068 -6.050949,0 0,4.966 11.016949,0 0,-26 z"
@@ -409,7 +439,7 @@
          inkscape:connector-curvature="0"
          id="rect3063"
          d="m 9.2500018,11.616548 0,26 11.0169492,0 0,-4.966548 -6.050949,0 0,-16.067 6.050949,0 0,-4.966452 z m 14.9830512,0 0,4.966452 6.050949,0 0,16.067 -6.050949,0 0,4.966548 11.016949,0 0,-26 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none"
          sodipodi:nodetypes="cccccccccccccccccc" />
     </g>
   </g>
