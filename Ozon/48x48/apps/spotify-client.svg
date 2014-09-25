@@ -14,8 +14,8 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="spotify-client-4.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="spotify-client.svg"
    inkscape:export-filename="/home/webdesign/spotify.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient4524">
       <stop
-         style="stop-color:#a5de71;stop-opacity:1;"
+         style="stop-color:#7bdc87;stop-opacity:1;"
          offset="0"
          id="stop4526" />
       <stop
-         style="stop-color:#42b1e5;stop-opacity:1;"
+         style="stop-color:#97e9a1;stop-opacity:1;"
          offset="1"
          id="stop4528" />
     </linearGradient>
@@ -452,19 +452,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="19.369065"
+     inkscape:zoom="6.2330255"
+     inkscape:cx="-11.724884"
      inkscape:cy="23.618251"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1306"
-     inkscape:window-height="950"
-     inkscape:window-x="299"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid

@@ -14,18 +14,18 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="browser.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="web-browser.svg">
   <defs
      id="defs4232">
     <linearGradient
        id="linearGradient4524">
       <stop
-         style="stop-color:#1f2f5c;stop-opacity:1;"
+         style="stop-color:#1b96d4;stop-opacity:1;"
          offset="0"
          id="stop4526" />
       <stop
-         style="stop-color:#42ace1;stop-opacity:1;"
+         style="stop-color:#27b7ff;stop-opacity:1;"
          offset="1"
          id="stop4528" />
     </linearGradient>
@@ -3941,19 +3941,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="48.223286"
-     inkscape:cy="24.560147"
+     inkscape:zoom="18.893009"
+     inkscape:cx="17.52959"
+     inkscape:cy="22.442962"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1306"
-     inkscape:window-height="950"
-     inkscape:window-x="299"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
