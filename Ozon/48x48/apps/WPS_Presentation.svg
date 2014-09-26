@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Kingsoft Presention.svg"
-   inkscape:export-filename="/home/max/Desktop/Presentation.png"
+   inkscape:export-filename="/home/max/Desktop/Presentation2.png"
    inkscape:export-xdpi="450"
    inkscape:export-ydpi="450">
   <defs
@@ -193,7 +193,7 @@
          offset="0"
          id="stop4526" />
       <stop
-         style="stop-color:#ff8d1f;stop-opacity:1;"
+         style="stop-color:#ff8d00;stop-opacity:1;"
          offset="1"
          id="stop4528" />
     </linearGradient>
@@ -586,11 +586,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.9717902"
-     inkscape:cx="8.6490791"
-     inkscape:cy="25.863494"
+     inkscape:zoom="14.102241"
+     inkscape:cx="8.6416838"
+     inkscape:cy="21.88847"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -689,7 +689,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -737,7 +737,7 @@
      inkscape:label="Baseplate"
      style="display:inline">
     <rect
-       style="fill:url(#linearGradient4530);fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient4530);fill-opacity:1.0;stroke:none"
        id="rect3038"
        width="44"
        height="44"
@@ -753,25 +753,29 @@
      transform="translate(0,-1004.3622)"
      style="display:inline">
     <g
-       style="opacity:0.15;stroke:#000000;stroke-opacity:1;display:inline"
-       id="g4156-6"
-       transform="matrix(0.92645799,0,0,0.92645799,1.757428,74.538865)">
-      <path
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:4.04205561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 8.6822824,1042.5383 0.023967,-10.4572 25.4885796,0 c 6.653402,-1.7364 6.337599,-12.6706 -0.0217,-13.4463 l -25.4767852,0"
-         id="rect2987-4-1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g4156"
-       transform="matrix(0.92645799,0,0,0.92645799,1.757428,73.53897)">
-      <path
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.04205561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 8.6822824,1042.5383 0.023967,-10.4572 25.4885796,0 c 6.653402,-1.7364 6.337599,-12.6706 -0.0217,-13.4463 l -25.4767852,0"
-         id="rect2987-4"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+       id="g3137"
+       transform="matrix(0.83991411,0,0,0.83991411,3.8220749,164.70182)">
+      <g
+         style="opacity:0.15;stroke:#000000;stroke-opacity:1;display:inline"
+         transform="matrix(0.84179743,0,0,0.84179743,3.778565,161.92561)"
+         id="g4156-9">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="rect2987-4-8"
+           d="m 8.6822824,1042.5383 0.023967,-10.4572 25.4885796,0 c 6.653402,-1.7364 6.337599,-12.6706 -0.0217,-13.4463 l -25.4767852,0"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:4.4271946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <g
+         transform="matrix(0.84179743,0,0,0.84179743,3.7785654,160.84343)"
+         id="g4156">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="rect2987-4"
+           d="m 8.6822824,1042.5383 0.023967,-10.4572 25.4885796,0 c 6.653402,-1.7364 6.337599,-12.6706 -0.0217,-13.4463 l -25.4767852,0"
+           style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4271946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
     </g>
   </g>
   <g
