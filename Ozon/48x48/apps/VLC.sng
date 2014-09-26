@@ -15,9 +15,23 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="steam.svg">
+   sodipodi:docname="VLC.svg"
+   inkscape:export-filename="/home/max/Desktop/VLC.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480">
   <defs
      id="defs4232">
+    <linearGradient
+       id="linearGradient3899">
+      <stop
+         style="stop-color:#ebebeb;stop-opacity:1;"
+         offset="0"
+         id="stop3901" />
+      <stop
+         style="stop-color:#d9d9d9;stop-opacity:1;"
+         offset="1"
+         id="stop3903" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4524">
       <stop
@@ -622,11 +636,11 @@
     <linearGradient
        id="linearGradient4524-6-0-4-9-5-4">
       <stop
-         style="stop-color:#ffa111;stop-opacity:1;"
+         style="stop-color:#ff7600;stop-opacity:1;"
          offset="0"
          id="stop4526-8-0-0-6-0-1" />
       <stop
-         style="stop-color:#fbaa0b;stop-opacity:1;"
+         style="stop-color:#fb9a0b;stop-opacity:1;"
          offset="1"
          id="stop4528-1-7-4-0-7-3" />
     </linearGradient>
@@ -640,6 +654,15 @@
        id="linearGradient4634"
        xlink:href="#linearGradient4524-6-0-4-9-5-4"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient3905"
+       x1="-76"
+       y1="1006.4302"
+       x2="-76"
+       y2="1050.4302"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -648,9 +671,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="28.441367"
-     inkscape:cy="18.742679"
+     inkscape:zoom="11.313709"
+     inkscape:cx="20.280007"
+     inkscape:cy="25.198851"
      inkscape:document-units="px"
      inkscape:current-layer="g4267"
      showgrid="true"
@@ -826,7 +849,7 @@
          height="44"
          width="44"
          id="rect3038-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="fill:url(#linearGradient3905);fill-opacity:1.0;stroke:none;display:inline" />
       <path
          style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;display:inline"
          d="m -89.000002,1006.4261 c -0.62325,0 -1.22556,0.068 -1.8125,0.1875 -3.81506,0.7767 -6.758228,4.9363 -7.156248,8.8791 -0.001,0.01 0.001,0.021 0,0.031 -0.0286,0.2935 -0.0312,0.605 -0.0312,0.9063 l 0,3.6562 c 7.065778,-2.8166 12.606068,-8.1312 16.312498,-13.6603 0,0.035 -7.3125,0 -7.3125,0 z m 21.03125,0 c -4.82292,14.3192 -15.80184,22.9555 -30.031248,26.3166 l 0,9.6875 c 0,0.3012 0.003,0.6128 0.0312,0.9062 23.526508,-1.3845 38.483228,-16.6366 38.999998,-35.9416 -0.17605,-0.088 -0.34875,-0.173 -0.53125,-0.25 -0.23882,-0.1006 -0.4698,-0.201 -0.71875,-0.2812 -0.031,-0.01 -0.0626,-0.021 -0.0937,-0.031 -0.19205,-0.059 -0.39634,-0.1094 -0.59375,-0.1562 -0.0925,-0.022 -0.1876,-0.043 -0.28125,-0.062 -0.24263,-0.049 -0.50056,-0.095 -0.75,-0.125 -0.35129,-0.041 -0.69809,-0.062 -1.0625,-0.062 l -4.96875,0 z"
