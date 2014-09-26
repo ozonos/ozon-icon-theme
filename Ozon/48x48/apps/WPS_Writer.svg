@@ -15,7 +15,10 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="applets-screenshooter.svg">
+   sodipodi:docname="Kingsoft Writer.svg"
+   inkscape:export-filename="/home/max/Desktop/Writer.png"
+   inkscape:export-xdpi="450"
+   inkscape:export-ydpi="450">
   <defs
      id="defs4232">
     <linearGradient
@@ -270,11 +273,11 @@
     <linearGradient
        id="linearGradient4524">
       <stop
-         style="stop-color:#2551ab;stop-opacity:1;"
+         id="stop3949"
          offset="0"
-         id="stop4526" />
+         style="stop-color:#0768cf;stop-opacity:1;" />
       <stop
-         style="stop-color:#3964bb;stop-opacity:1;"
+         style="stop-color:#0089ff;stop-opacity:1;"
          offset="1"
          id="stop4528" />
     </linearGradient>
@@ -791,9 +794,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.9717903"
-     inkscape:cx="-0.36567316"
-     inkscape:cy="24.834362"
+     inkscape:zoom="14.102241"
+     inkscape:cx="2.2109286"
+     inkscape:cy="27.270079"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -894,7 +897,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -957,64 +960,18 @@
      id="layer1"
      transform="translate(0,-1004.3622)"
      style="display:inline">
-    <g
-       style="opacity:0.15;fill:#000000;fill-opacity:1;display:inline"
-       transform="matrix(0.92955263,0,0,0.76101987,-355.80707,630.64687)"
-       id="g3019-8">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4660-5"
-         d="m 408.57142,522.23389 -6.91795,6.91794 0,10.04609 6.91795,-6.91796 6.91797,6.91796 0,-10.07616 -6.91797,-6.88787 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4639-8"
-         d="m 394.45139,508.383 0,27.82012 0,2.97979 7.21214,0 0,-10.17873 0,-20.62118 -7.21214,0 z m 21.0431,0 0,20.60799 0,10.17873 0,0.0133 0.0132,0 7.19894,0 0,-2.99297 0,-27.80696 -7.21214,-9e-5 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <g
-         transform="matrix(1.0346824,0,0,1.0346824,-14.170226,-18.035786)"
-         id="g834-4"
-         style="fill:#000000;fill-opacity:1">
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m 408.57143,522.1599 -6.68607,6.68606 0,9.70934 6.68607,-6.68607 0,-9.70933 z"
-           id="rect4670-5"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m 408.57143,522.1599 0,9.70933 6.68607,6.68607 0,-9.7384 -6.68607,-6.657 z"
-           id="path4683-1"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0.92955263,0,0,0.76101987,-355.80707,629.64662)"
-       id="g3019">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4660"
-         d="m 408.57142,522.23389 -6.91795,6.91794 0,10.04609 6.91795,-6.91796 6.91797,6.91796 0,-10.07616 -6.91797,-6.88787 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4639"
-         d="m 394.45139,508.383 0,27.82012 0,2.97979 7.21214,0 0,-10.17873 0,-20.62118 -7.21214,0 z m 21.0431,0 0,20.60799 0,10.17873 0,0.0133 0.0132,0 7.19894,0 0,-2.99297 0,-27.80696 -7.21214,-9e-5 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <g
-         transform="matrix(1.0346824,0,0,1.0346824,-14.170226,-18.035786)"
-         id="g834">
-        <path
-           style="fill:url(#linearGradient4681);fill-opacity:1;stroke:none"
-           d="m 408.57143,522.1599 -6.68607,6.68606 0,9.70934 6.68607,-6.68607 0,-9.70933 z"
-           id="rect4670"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:url(#linearGradient4685);fill-opacity:1;stroke:none"
-           d="m 408.57143,522.1599 0,9.70933 6.68607,6.68607 0,-9.7384 -6.68607,-6.657 z"
-           id="path4683"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
+    <path
+       style="opacity:0.15;color:#000000;fill:none;stroke:#000000;stroke-width:3.75012493;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 9.4413638,1018.7405 c 0,7.1151 0,14.2303 0,21.3456 l 14.6669292,-14.7839 14.371887,14.7756 0,-21.3244"
+       id="rect2987-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.75012493;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 9.4413638,1017.7406 c 0,7.1151 0,14.2303 0,21.3456 l 14.6669292,-14.7839 14.371887,14.7756 0,-21.3244"
+       id="rect2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
