@@ -7,7 +7,7 @@ Comment=Can the can
 Example=directory-x-normal
 
 # Directory list
-Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps,scalable/apps,scalable/actions,scalable/devices,scalable/emblems
+Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps,scalable/apps,scalable/actions,scalable/devices,scalable/emblems,scalable/places
 
 [16x16/apps]
 Size=16
