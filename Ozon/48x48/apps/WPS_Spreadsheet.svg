@@ -14,8 +14,8 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Kingsoft Spreadsheet.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="WPS_Spreadsheet.svg"
    inkscape:export-filename="/home/max/Desktop/Spreadsheet2.png"
    inkscape:export-xdpi="450"
    inkscape:export-ydpi="450">
@@ -543,18 +543,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.9717902"
-     inkscape:cx="-11.371901"
-     inkscape:cy="30.825453"
+     inkscape:zoom="12.61834"
+     inkscape:cx="11.154224"
+     inkscape:cy="23.619159"
      inkscape:document-units="px"
-     inkscape:current-layer="g3142"
-     showgrid="false"
+     inkscape:current-layer="layer1"
+     showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -646,7 +646,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -713,17 +713,17 @@
        id="g3142"
        transform="matrix(0.86544887,0,0,0.86544887,3.228004,138.42435)">
       <path
-         sodipodi:nodetypes="cccccccc"
+         sodipodi:nodetypes="ccscccccsccscccscccccsccscccc"
          inkscape:connector-curvature="0"
-         id="rect2987-4-6-2-7"
-         d="m 36.655674,1019.4212 -21.822034,0 c -5.6222956,1.4674 -5.3554349,9.168 0.01835,9.8235 l 10.025556,0 3.421306,0 4.830985,0 c 5.37378,0.6554 5.64064,8.3559 0.01835,9.8233 l -21.822035,0"
-         style="opacity:0.15;color:#000000;fill:none;stroke:#000000;stroke-width:3.73356843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path3898"
+         d="m 14.72696,1017.9028 c -0.0951,0.013 -0.189162,0.034 -0.281044,0.062 -3.556074,0.925 -5.5128018,4.028 -5.4647449,6.9705 0.048057,2.9425 2.2253309,6.3847 5.7457889,6.8126 0.07216,0.015 0.145196,0.025 0.21859,0.031 l 9.930223,0 3.403755,0 4.621613,0 c 1.493297,-0.015 2.625636,1.5095 2.647921,2.8739 0.02215,1.3563 -1.154624,2.8894 -2.835283,2.8894 l -21.989124,0 c -1.0098846,-0.075 -1.731936,0.72 -1.731936,1.7337 0,1.0136 0.7220514,1.8002 1.731936,1.7257 l 22.363849,0 c 0.15797,-8e-4 0.31582,-0.022 0.468407,-0.063 3.556104,-0.9247 5.512802,-4.028 5.464745,-6.9704 -0.04805,-2.9424 -2.22532,-6.3845 -5.745789,-6.8123 -0.07216,-0.015 -0.145196,-0.025 -0.21859,-0.031 l -4.777749,0 -3.403755,0 -9.774087,0 c -1.741658,-0.038 -2.622811,-1.5094 -2.645096,-2.8738 -0.02215,-1.3562 0.672655,-2.8922 2.832459,-2.8894 l 21.991948,0 c 1.010082,0.075 1.731935,-0.7198 1.731935,-1.7336 0,-1.0138 -0.721853,-1.801 -1.731935,-1.7261 l -22.366674,0 c -0.0624,0 -0.124962,0 -0.187363,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.69723082000000014;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.15" />
       <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.69723082;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 14.72696,1016.7473 c -0.0951,0.013 -0.189162,0.034 -0.281044,0.062 -3.556074,0.925 -5.5128018,4.028 -5.4647449,6.9705 0.048057,2.9425 2.2253309,6.3847 5.7457889,6.8126 0.07216,0.015 0.145196,0.025 0.21859,0.031 l 9.930223,0 3.403755,0 4.621613,0 c 1.493297,-0.015 2.625636,1.5095 2.647921,2.8739 0.02215,1.3563 -1.154624,2.8894 -2.835283,2.8894 l -21.989124,0 c -1.0098846,-0.075 -1.731936,0.72 -1.731936,1.7337 0,1.0136 0.7220514,1.8002 1.731936,1.7257 l 22.363849,0 c 0.15797,-8e-4 0.31582,-0.022 0.468407,-0.063 3.556104,-0.9247 5.512802,-4.028 5.464745,-6.9704 -0.04805,-2.9424 -2.22532,-6.3845 -5.745789,-6.8123 -0.07216,-0.015 -0.145196,-0.025 -0.21859,-0.031 l -4.777749,0 -3.403755,0 -9.774087,0 c -1.741658,-0.038 -2.622811,-1.5094 -2.645096,-2.8738 -0.02215,-1.3562 0.672655,-2.8922 2.832459,-2.8894 l 21.991948,0 c 1.010082,0.075 1.731935,-0.7198 1.731935,-1.7336 0,-1.0138 -0.721853,-1.801 -1.731935,-1.7261 l -22.366674,0 c -0.0624,0 -0.124962,0 -0.187363,0 z"
          id="rect2987-4-6-2"
-         d="m 36.655673,1018.5045 -21.822033,0 c -5.6222957,1.4675 -5.3554349,9.168 0.01835,9.8235 l 10.025555,0 3.421306,0 4.830985,0 c 5.37378,0.6554 5.640641,8.356 0.01835,9.8233 l -21.822034,0"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.73356843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscccccsccscccscccccsccscccc" />
     </g>
   </g>
   <g
