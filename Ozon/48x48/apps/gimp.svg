@@ -14,7 +14,7 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="gimp.svg"
    inkscape:export-filename="/home/pablo/Projetos/Open Source/gimp-shadowornot.png"
    inkscape:export-xdpi="90"
@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="13.095274"
-     inkscape:cy="30.730808"
+     inkscape:zoom="10.851184"
+     inkscape:cx="13.17136"
+     inkscape:cy="11.269874"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -435,7 +435,7 @@
        effect="skeletal"
        id="path-effect7386"
        is_visible="true"
-       pattern="m 28.529412,30.999956 1,0"
+       pattern="m 28.529412,31.999956 1,0"
        copytype="single_stretched"
        prop_scale="1"
        scale_y_rel="false"
@@ -7685,7 +7685,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8227,7 +8227,7 @@
     </g>
     <path
        style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 9.0000001,1012.3622 0,4 0.9999999,0 0,9 -0.9999999,0 0,4 0.9999999,0 0,9 -0.9999999,0 0,4 3.9999999,0 0,-1 9,0 0,1 4,0 0,-1 9,0 0,1 4,0 0,-4 -1,0 0,-9 1,0 0,-4 -1,0 0,-9 1,0 0,-4 -4,0 0,1 -9,0 0,-1 -4,0 0,1 -9,0 0,-1 -3.9999999,0 z"
+       d="m 9.0000001,1013.3622 0,4 0.9999999,0 0,9 -0.9999999,0 0,4 0.9999999,0 0,9 -0.9999999,0 0,4 3.9999999,0 0,-1 9,0 0,1 4,0 0,-1 9,0 0,1 4,0 0,-4 -1,0 0,-9 1,0 0,-4 -1,0 0,-9 1,0 0,-4 -4,0 0,1 -9,0 0,-1 -4,0 0,1 -9,0 0,-1 -3.9999999,0 z"
        id="rect3774"
        inkscape:connector-curvature="0" />
     <g
@@ -8271,12 +8271,12 @@
        width="28"
        height="28"
        x="10"
-       y="1012.3622" />
+       y="1013.3622" />
     <g
        id="layer2-0"
        inkscape:label="Baseplate"
        style="display:inline"
-       transform="matrix(0.59090909,0,0,0.59090884,9.8448922,1008.3624)">
+       transform="matrix(0.59090909,0,0,0.59090884,9.8448922,1009.3624)">
       <g
          id="g6396">
         <rect
@@ -8349,11 +8349,11 @@
       </g>
     </g>
     <path
-       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.00200007000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 35,1037.362 4,0 0,0 0,4.0002 -10e-7,0 -3.999999,0 z"
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       d="m 35,1038.362 4,0 0,0 0,4.0002 -10e-7,0 -3.999999,0 z"
        id="path7384"
        inkscape:path-effect="#path-effect7386"
-       inkscape:original-d="m 35,1037.362 4,0 0,4.0002 -4,0 z"
+       inkscape:original-d="m 35,1038.362 4,0 0,4.0002 -4,0 z"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
@@ -8364,7 +8364,7 @@
        sodipodi:rx="2.0152462"
        sodipodi:ry="2.0152462"
        d="m 25.234387,21.88942 a 2.0152462,2.0152462 0 1 1 -4.030492,0 2.0152462,2.0152462 0 1 1 4.030492,0 z"
-       transform="matrix(0.9924346,0,0,0.9924346,0.95652117,1004.6383)" />
+       transform="matrix(0.9924346,0,0,0.9924346,0.95652117,1005.6383)" />
     <g
        style="display:none"
        inkscape:label="Baseshape"
