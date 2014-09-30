@@ -297,6 +297,26 @@
        y2="8"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.90322581,0,0,0.90322581,2.2400704,1.7741934)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3869"
+       id="linearGradient3863"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90322581,0,0,0.90322581,2.24007,1.7741934)"
+       x1="25"
+       y1="39"
+       x2="25"
+       y2="8" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3869"
+       id="linearGradient3871"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90322581,0,0,0.90322581,0.2400704,1.7741934)"
+       x1="25"
+       y1="39"
+       x2="25"
+       y2="8" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -305,9 +325,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.8540653"
-     inkscape:cx="29.865984"
-     inkscape:cy="14.137045"
+     inkscape:zoom="11.313708"
+     inkscape:cx="40.892888"
+     inkscape:cy="25.622176"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -315,8 +335,8 @@
      borderlayer="true"
      inkscape:window-width="1395"
      inkscape:window-height="895"
-     inkscape:window-x="171"
-     inkscape:window-y="46"
+     inkscape:window-x="197"
+     inkscape:window-y="51"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -408,7 +428,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -466,6 +486,18 @@
        rx="9" />
     <text
        sodipodi:linespacing="125%"
+       id="text3084"
+       y="35.083313"
+       x="11.073914"
+       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:url(#linearGradient3875);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:url(#linearGradient3875);fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="35.083313"
+         x="11.073914"
+         id="tspan3086"
+         sodipodi:role="line">S</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
        id="text3863"
        y="35.986538"
        x="11.073914"
@@ -474,10 +506,11 @@
          y="35.986538"
          x="11.073914"
          id="tspan3865"
-         sodipodi:role="line">S</tspan></text>
+         sodipodi:role="line"
+         style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">S</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3875);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3863);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
        x="11.073914"
        y="35.083313"
        id="text3859"
@@ -486,7 +519,7 @@
          id="tspan3861"
          x="11.073914"
          y="35.083313"
-         style="fill:url(#linearGradient3875);fill-opacity:1">S</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3863);fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">S</tspan></text>
   </g>
   <g
      inkscape:label="Symbol"
