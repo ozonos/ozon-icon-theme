@@ -619,16 +619,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.42"
-     inkscape:cx="13.730588"
-     inkscape:cy="24.519539"
+     inkscape:zoom="54.628077"
+     inkscape:cx="3.237428"
+     inkscape:cy="41.971117"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -721,7 +721,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -785,11 +785,6 @@
      transform="translate(0,-1004.3622)"
      style="display:inline">
     <path
-       id="path5570"
-       d="m 2,1032.3622 0,6 44,0 0,-6 -44,0 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.15"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:#9569b2;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 2 27 L 2 33 L 46 33 L 46 27 L 2 27 z "
        transform="translate(0,1004.3622)"
@@ -812,7 +807,7 @@
     <path
        style="fill:#ff7070;fill-opacity:1;fill-rule:evenodd;stroke:none"
        inkscape:connector-curvature="0"
-       d="m 11.995,1010.3622 0.005,0 c 1.3775,0 2.495,1.1199 2.495,2.5025 l 0,0 c 0,1.3789 -1.11875,2.4975 -2.495,2.4975 l -0.005,0 c -1.38125,0 -2.5,-1.1199 -2.5,-2.4975 l 0,0 c 0,-1.3826 1.11875,-2.5025 2.5,-2.5025 m 0,0"
+       d="m 11.5,1010.3622 0.005,0 c 1.3775,0 2.495,1.1199 2.495,2.5025 l 0,0 c 0,1.3789 -1.11875,2.4975 -2.495,2.4975 l -0.005,0 c -1.38125,0 -2.5,-1.1199 -2.5,-2.4975 l 0,0 c 0,-1.3826 1.11875,-2.5025 2.5,-2.5025 m 0,0"
        id="path116" />
     <use
        height="1052.3622"
@@ -882,6 +877,11 @@
        d="m 43,1008.6747 c 1.83375,1.6454 3,4.0185 3,6.6875 l 0,26 c 0,2.669 -1.16625,5.0421 -3,6.6875 l 0,-39.375 z"
        style="opacity:0.2;fill:url(#linearGradient5619);fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.1"
+       d="M 11.5 6 C 10.11875 6 9 7.1174 9 8.5 C 9 8.6722 9.0292114 8.8375371 9.0625 9 C 9.29552 7.8594102 10.291406 7 11.5 7 C 12.705312 7 13.704771 7.8594102 13.9375 9 C 13.970779 8.8374482 14 8.6723625 14 8.5 C 14 7.1174 12.8775 6 11.5 6 z "
+       transform="translate(0,1004.3622)"
+       id="path3919" />
   </g>
   <g
      inkscape:groupmode="layer"
