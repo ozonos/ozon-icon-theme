@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="napred-sredna.svg">
+   sodipodi:docname="nazad-3.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.128148"
-     inkscape:cx="9.0576137"
-     inkscape:cy="0.74632603"
+     inkscape:zoom="83.145404"
+     inkscape:cx="8.6027613"
+     inkscape:cy="12.441313"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,31 +62,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <g
-       id="g3048">
-      <rect
-         y="1043.3622"
-         x="0"
-         height="2"
-         width="16"
-         id="rect3017"
-         style="fill:#bebebe;fill-opacity:1;stroke:none" />
-      <rect
-         transform="matrix(0.70771926,0.70649377,-0.70771926,0.70649377,0,0)"
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         id="rect3019"
-         width="10.008677"
-         height="2.0017354"
-         x="739.7738"
-         y="737.77203" />
-      <rect
-         y="-739.19061"
-         x="-737.1889"
-         height="2.0017354"
-         width="10.008677"
-         id="rect3021"
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         transform="matrix(0.70649377,-0.70771926,-0.70649377,-0.70771926,0,0)" />
-    </g>
+    <rect
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="rect3017"
+       width="12"
+       height="2"
+       x="2"
+       y="1043.3622" />
+    <rect
+       y="739.24335"
+       x="-736.41498"
+       height="2"
+       width="8"
+       id="rect2990"
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+    <rect
+       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="rect2992"
+       width="8"
+       height="2"
+       x="740.4859"
+       y="-737.65753" />
   </g>
 </svg>
