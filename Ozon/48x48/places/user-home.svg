@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="folder-video.svg">
+   sodipodi:docname="user-home.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -230,14 +230,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.49025"
-     inkscape:cx="-8.1310159"
-     inkscape:cy="21.266131"
+     inkscape:zoom="49.545509"
+     inkscape:cx="4.0186306"
+     inkscape:cy="25.666771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -259,7 +259,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -309,27 +309,28 @@
        transform="translate(0,1004.3622)"
        id="rect3056" />
     <g
-       id="g3031"
-       transform="translate(16,1023.3622)"
-       style="opacity:0.8;fill:#f7e6f0;fill-opacity:1">
+       id="g3805"
+       style="opacity:0.8;fill:#f7e6f0;fill-opacity:1"
+       transform="translate(30,-1)">
       <path
-         sodipodi:nodetypes="cccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect2983"
-         d="m 2,8 0,8 3,0 0,-6 3,0 0,6 6,0 0,-8 z m 8,2 2,0 0,3 -2,0 z"
-         style="fill:#f7e6f0;fill-opacity:1;stroke:none" />
+         id="rect2983-1"
+         d="m -12,1032.3622 0,8 3,0 0,-5 c 0,-0.554 0.446,-1 1,-1 l 1,0 c 0.554,0 1,0.446 1,1 l 0,5 6,0 0,-8 -12,0 z m 9,2 c 0.554,0 1,0.446 1,1 l 0,1 c 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 l 0,-1 c 0,-0.554 0.446,-1 1,-1 z"
+         style="fill:#f7e6f0;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
-         id="path3753"
-         d="M 0,7 2,7 2,9 14,9 14,7 16,7 8,0 z"
+         id="path3753-9"
+         d="m -14,1031.3622 2,0 0,2 12,0 0,-2 2,0 -8,-7 z"
          style="fill:#f7e6f0;fill-opacity:1;stroke:none" />
       <rect
-         y="0"
-         x="12"
-         height="6.4088039"
+         ry="1"
+         rx="1"
+         y="1024.3622"
+         x="-2"
+         height="7"
          width="2"
-         id="rect3755"
+         id="rect3755-3"
          style="fill:#f7e6f0;fill-opacity:1;stroke:none" />
     </g>
   </g>
