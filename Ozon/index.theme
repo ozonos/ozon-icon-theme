@@ -7,7 +7,7 @@ Comment=Can the can
 Example=directory-x-normal
 
 # Directory list
-Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps,48x48/places,scalable/apps,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/status
+Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps,48x48/mimetypes,48x48/places,scalable/apps,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/status
 
 [16x16/apps]
 Size=16
@@ -32,6 +32,11 @@ Type=Fixed
 [48x48/apps]
 Size=48
 Context=Applications
+Type=Fixed
+
+[48x48/mimetypes]
+Size=48
+Context=MimeTypes
 Type=Fixed
 
 [48x48/places]
