@@ -7,8 +7,7 @@ Comment=Can the can
 Example=directory-x-normal
 
 # Directory list
-Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,24x24/actions,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/apps,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/status
-Directories=48x48/apps,48x48/mimetypes,48x48/places,scalable/apps,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/status
+Directories=24x24/actions,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/apps,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/status
 
 #	24x24
 
@@ -27,22 +26,17 @@ Type=Fixed
 [48x48/devices]
 Size=48
 Context=Applications
-Type=Scalable
-
-[48x48/devices]
-Size=48
-Context=Devices
-Type=Scalable
+Type=Fixed
 
 [48x48/mimetypes]
 Size=48
 Context=MimeTypes
-Type=Scalable
+Type=Fixed
 
 [48x48/places]
 Size=48
 Context=Places
-Type=Scalable
+Type=Fixed
 
 #	Symbolic icons for GTK 3 software
 #	scalable/[category]
