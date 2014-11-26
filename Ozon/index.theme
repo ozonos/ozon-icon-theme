@@ -33,8 +33,6 @@ Type=Scalable
 Size=48
 Context=Devices
 Type=Scalable
-Context=Devices
-Type=Fixed
 
 [48x48/mimetypes]
 Size=48
