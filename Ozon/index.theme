@@ -7,7 +7,7 @@ Inherits=Adwaita
 Example=directory-x-normal
 
 # Directory list
-Directories=24x24/actions,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/appsscalable/status
+Directories=24x24/actions,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/apps,scalable/status
 
 [24x24/actions]
 Size=24
