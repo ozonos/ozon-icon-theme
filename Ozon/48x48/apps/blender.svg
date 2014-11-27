@@ -107,9 +107,9 @@
      inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -162,7 +162,8 @@
      id="layer2"
      inkscape:label="Blob"
      transform="translate(0,-1004.3622)"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="opacity:0.3;fill:url(#radialGradient3076);fill-opacity:1;stroke:none;display:inline"
        d="m 1.003,1049.3622 c 0.487953,4.5189 4.315946,8 8.96875,8 l 28,0 c 4.652804,0 8.480796,-3.4811 8.96875,-8 l -45.9375,0 z"

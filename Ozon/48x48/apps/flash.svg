@@ -15,7 +15,7 @@
    id="svg3813"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Novo documento 2">
+   sodipodi:docname="flash.svg">
   <defs
      id="defs3815">
     <radialGradient
@@ -64,7 +64,7 @@
     <linearGradient
        id="linearGradient3890">
       <stop
-         style="stop-color:#7c0c12;stop-opacity:1;"
+         style="stop-color:#a50c12;stop-opacity:1;"
          offset="0"
          id="stop3892" />
       <stop
@@ -104,15 +104,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6"
-     inkscape:cx="38.775052"
-     inkscape:cy="26.199533"
+     inkscape:cx="28.389773"
+     inkscape:cy="25.64814"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
-     showgrid="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="871"
-     inkscape:window-x="1366"
-     inkscape:window-y="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -130,7 +130,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -167,7 +167,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Blob"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="opacity:0.3;fill:url(#radialGradient3913);fill-opacity:1;stroke:none;display:inline"
        d="m 1.0031,45 c 0.487953,4.518898 4.315946,8 8.96875,8 l 28,0 c 4.652804,0 8.480796,-3.481102 8.96875,-8 L 1.0031,45 z"
@@ -212,17 +213,17 @@
      id="layer3"
      inkscape:label="Symbol">
     <g
-       transform="translate(4.01e-4,-1004.3623)"
-       id="g3883">
+       id="g3786"
+       transform="translate(-0.1884275,-0.0087)">
       <path
          id="path3851"
-         d="m 11.489534,1043.3128 v -5.7105 c 12.96286,0.1536 6.74291,-22.5994 26.04092,-23.5553 v 5.864 c -3.88767,-0.255 -6.47471,2.2051 -8.3874,6.0799 h 4.97133 v 5.4678 h -7.52049 c -2.70209,7.8648 -7.77523,11.778 -15.11695,11.8676 l 0.0125,-0.014 z"
+         d="M 11.489935,38.9505 V 33.24 c 12.96286,0.1536 6.74291,-22.5994 26.04092,-23.5553 v 5.864 c -3.88767,-0.255 -6.47471,2.2051 -8.3874,6.0799 h 4.97133 v 5.4678 h -7.52049 c -2.70209,7.8648 -7.77523,11.778 -15.11695,11.8676 l 0.0125,-0.014 z"
          inkscape:connector-curvature="0"
          style="opacity:0.15;fill:#000000" />
       <path
          style="fill:#ffffff"
          inkscape:connector-curvature="0"
-         d="m 10.858189,1042.6815 v -5.7105 c 12.96286,0.1536 6.74291,-22.5994 26.04092,-23.5553 v 5.864 c -3.88767,-0.255 -6.47471,2.2051 -8.3874,6.0799 h 4.97133 v 5.4678 h -7.52049 c -2.70209,7.8648 -7.77523,11.778 -15.11695,11.8676 l 0.0125,-0.014 z"
+         d="M 10.85859,38.3192 V 32.6087 C 23.82145,32.7623 17.6015,10.0093 36.89951,9.0534 v 5.864 c -3.88767,-0.255 -6.47471,2.2051 -8.3874,6.0799 h 4.97133 v 5.4678 H 25.96295 C 23.26086,34.3299 18.18772,38.2431 10.846,38.3327 l 0.0125,-0.014 z"
          id="path3085" />
     </g>
   </g>
