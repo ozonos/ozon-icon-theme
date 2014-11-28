@@ -144,9 +144,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000001"
-     inkscape:cx="22.224821"
-     inkscape:cy="22.99072"
+     inkscape:zoom="2"
+     inkscape:cx="108.33717"
+     inkscape:cy="38.537043"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -350,7 +350,7 @@
          style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0.95272354,-0.30383854,0.30383854,0.95272354,0,0)"
-         style="fill:#81df21;fill-opacity:1;stroke:none"
+         style="fill:#efbf2d;fill-opacity:1;stroke:none"
          id="rect4357"
          width="12.236863"
          height="12.236863"
@@ -362,7 +362,7 @@
          d="m 20.148089,1029.5708 c -0.849834,0.2711 -0.184716,2.0529 -1.348655,2.4241 -1.161159,0.3704 -3.269884,-4.0586 -4.714296,-3.5979 -1.443482,0.4604 -0.322425,7.3342 -0.322425,7.3342 l 11.355194,-3.6213 c 0,0 -4.119084,-2.8104 -4.969818,-2.5391 z"
          id="path4363"
          inkscape:connector-curvature="0"
-         style="fill:#4a521a;fill-opacity:1" />
+         style="fill:#4e6a17;fill-opacity:1" />
       <circle
          cx="12.5"
          cy="3.5"
@@ -374,11 +374,11 @@
          sodipodi:ry="1.5"
          transform="matrix(0.93489163,-0.29815165,0.29815165,0.93489163,8.9002211,1026.9564)"
          d="M 14,3.5 C 14,4.3284271 13.328427,5 12.5,5 11.671573,5 11,4.3284271 11,3.5 11,2.6715729 11.671573,2 12.5,2 13.328427,2 14,2.6715729 14,3.5 z"
-         style="fill:#4a521a;fill-opacity:1" />
+         style="fill:#4e6a17;fill-opacity:1" />
     </g>
     <g
        id="g4748"
-       transform="matrix(0.96575241,0.08052966,-0.08052966,0.96575241,82.933489,33.894225)">
+       transform="matrix(0.96575241,0.08052966,-0.08052966,0.96575241,82.403162,33.894225)">
       <rect
          ry="0"
          rx="0"
