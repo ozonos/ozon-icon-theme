@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="smuxi-person-chat.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-3.1864407"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath6">
+      <rect
+         width="16"
+         height="16"
+         id="rect8" />
+    </clipPath>
+  </defs>
+  <g
+     id="g2999"
+     style="fill:#333333;fill-opacity:1">
+    <path
+       id="rect2984"
+       d="M 2,8 C 0.892,8 0,8.892 0,10 l 0,4 c 0,1.108 0.892,2 2,2 L 6.40625,16 4,8 2,8 z M 12,8 9.59375,16 14,16 c 1.108,0 2,-0.892 2,-2 l 0,-4 C 16,8.892 15.108,8 14,8 l -2,0 z m 1,4 1,0 c 0.554,0 1,0.223 1,0.5 0,0.277 -0.446,0.5 -1,0.5 l -1,0 c -0.554,0 -1,-0.223 -1,-0.5 0,-0.277 0.446,-0.5 1,-0.5 z"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1.3343641,0,0,1,19.921194,-2)"
+       d="m -6.9999995,5 c 0,1.6568542 -1.0065812,3 -2.248262,3 -1.2416805,0 -2.2482615,-1.3431458 -2.2482615,-3 0,-1.6568542 1.006581,-3 2.2482615,-3 1.2416808,0 2.248262,1.3431458 2.248262,3 z"
+       sodipodi:ry="3"
+       sodipodi:rx="2.2482619"
+       sodipodi:cy="5"
+       sodipodi:cx="-9.2482615"
+       id="path2986"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3759"
+       d="m 8,8 -2,2 2,5 2,-5 z"
+       style="fill:#333333;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
