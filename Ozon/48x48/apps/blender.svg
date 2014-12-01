@@ -15,17 +15,17 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="base.svg">
+   sodipodi:docname="blender.svg">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3768">
       <stop
-         style="stop-color:#fffeeb;stop-opacity:1;"
+         style="stop-color:#f7f7e8;stop-opacity:1;"
          offset="0"
          id="stop3770" />
       <stop
-         style="stop-color:#fffcd7;stop-opacity:1;"
+         style="stop-color:#f0f0e8;stop-opacity:1;"
          offset="1"
          id="stop3772" />
     </linearGradient>
@@ -80,16 +80,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="64.477534"
+     inkscape:zoom="13.003265"
+     inkscape:cx="51.988159"
      inkscape:cy="28.164296"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="900"
-     inkscape:window-x="1366"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
