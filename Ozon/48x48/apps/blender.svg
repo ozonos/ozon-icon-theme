@@ -80,17 +80,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.003265"
-     inkscape:cx="51.988159"
-     inkscape:cy="28.164296"
+     inkscape:zoom="17.15"
+     inkscape:cx="24.263779"
+     inkscape:cy="14.075771"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3045" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -167,8 +171,32 @@
      id="layer4"
      inkscape:label="Symbol"
      transform="translate(0,-1004.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3057"
+       d="m 8,1012.3622 0,9 1.9999997,0 0,-7 7.0000003,0 0,-2 z"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 40,1012.3622 0,9 -2,0 0,-7 -7,0 0,-2 z"
+       id="path3059"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 8,1044.3622 0,-9 2,0 0,7 7,0 0,2 z"
+       id="path3061"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3063"
+       d="m 40,1044.3622 0,-9 -2,0 0,7 -7,0 0,2 z"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccccc" />
     <g
-       transform="matrix(0.04297393,0,0,0.04297393,13.072406,1017.4515)"
+       transform="matrix(0.04297393,0,0,0.04297393,13.072406,1016.4515)"
        id="g3862"
        style="opacity:0.15;fill:#000000">
       <g
@@ -179,19 +207,19 @@
            style="fill:#000000">
           <polygon
              style="fill:#000000"
-             points="27,136.655 27,254.875 123,303.193 123,184.973 "
+             points="27,254.875 123,303.193 123,184.973 27,136.655 "
              id="polygon3868" />
           <polygon
              style="fill:#000000"
-             points="242,244.967 146,196.636 146,314.855 242,363.193 "
+             points="146,196.636 146,314.855 242,363.193 242,244.967 "
              id="polygon3870" />
           <polygon
              style="fill:#000000"
-             points="242,509.92 242,391.752 146,343.428 146,461.635 "
+             points="242,391.752 146,343.428 146,461.635 242,509.92 "
              id="polygon3872" />
           <polygon
              style="fill:#000000"
-             points="27,401.622 123,449.946 123,331.765 27,283.453 "
+             points="123,449.946 123,331.765 27,283.453 27,401.622 "
              id="polygon3874" />
         </g>
         <g
@@ -199,19 +227,19 @@
            style="fill:#000000">
           <polygon
              style="fill:#000000"
-             points="486,136.655 486,254.875 390,303.193 390,184.973 "
+             points="486,254.875 390,303.193 390,184.973 486,136.655 "
              id="polygon3878" />
           <polygon
              style="fill:#000000"
-             points="271,244.967 367,196.636 367,314.855 271,363.193 "
+             points="367,196.636 367,314.855 271,363.193 271,244.967 "
              id="polygon3880" />
           <polygon
              style="fill:#000000"
-             points="271,509.92 271,391.752 367,343.428 367,461.635 "
+             points="271,391.752 367,343.428 367,461.635 271,509.92 "
              id="polygon3882" />
           <polygon
              style="fill:#000000"
-             points="486,401.622 390,449.946 390,331.765 486,283.453 "
+             points="390,449.946 390,331.765 486,283.453 486,401.622 "
              id="polygon3884" />
         </g>
       </g>
@@ -220,141 +248,115 @@
          style="fill:#000000">
         <polygon
            style="fill:#000000"
-           points="255.718,1.305 157.738,46.844 255.796,94.214 353.971,46.11 "
+           points="157.738,46.844 255.796,94.214 353.971,46.11 255.718,1.305 "
            id="polygon3888" />
         <polygon
            style="fill:#000000"
-           points="484.074,105.467 378.516,57.312 280.36,106.078 385.919,157.071 "
+           points="378.516,57.312 280.36,106.078 385.919,157.071 484.074,105.467 "
            id="polygon3890" />
         <polygon
            style="fill:#000000"
-           points="255.978,225.415 361.373,170.006 255.815,118.259 150.679,170.493 "
+           points="361.373,170.006 255.815,118.259 150.679,170.493 255.978,225.415 "
            id="polygon3892" />
         <polygon
            style="fill:#000000"
-           points="28.627,106.85 126.212,157.733 231.276,106.24 133.296,58.201 "
+           points="126.212,157.733 231.276,106.24 133.296,58.201 28.627,106.85 "
            id="polygon3894" />
       </g>
     </g>
     <g
        id="g3903"
-       transform="translate(0,1.4999826)">
+       transform="translate(0,0.4999826)">
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3146"
-         points="242,363.193 242,244.967 146,196.636 146,314.855 "
+         points="242,244.967 146,196.636 146,314.855 242,363.193 "
          style="fill:#209cc8;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3156"
-         points="271,363.193 271,244.967 367,196.636 367,314.855 "
+         points="271,244.967 367,196.636 367,314.855 271,363.193 "
          style="fill:#209cc8;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          style="fill:#209cc8;fill-opacity:1"
-         points="361.373,170.006 255.815,118.259 150.679,170.493 255.978,225.415 "
+         points="255.815,118.259 150.679,170.493 255.978,225.415 361.373,170.006 "
          id="polygon3168" />
     </g>
     <g
        id="g3892"
        style="fill:#f77c00;fill-opacity:1"
-       transform="translate(0,1.4999826)">
+       transform="translate(0,0.4999826)">
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3144"
-         points="123,184.973 27,136.655 27,254.875 123,303.193 "
+         points="27,136.655 27,254.875 123,303.193 123,184.973 "
          style="fill:#f77c00;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3148"
-         points="146,461.635 242,509.92 242,391.752 146,343.428 "
+         points="242,509.92 242,391.752 146,343.428 146,461.635 "
          style="fill:#f77c00;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3150"
-         points="27,283.453 27,401.622 123,449.946 123,331.765 "
+         points="27,401.622 123,449.946 123,331.765 27,283.453 "
          style="fill:#f77c00;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3154"
-         points="390,184.973 486,136.655 486,254.875 390,303.193 "
+         points="486,136.655 486,254.875 390,303.193 390,184.973 "
          style="fill:#f77c00;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3158"
-         points="367,461.635 271,509.92 271,391.752 367,343.428 "
+         points="271,509.92 271,391.752 367,343.428 367,461.635 "
          style="fill:#f77c00;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          id="polygon3160"
-         points="486,283.453 486,401.622 390,449.946 390,331.765 "
+         points="486,401.622 390,449.946 390,331.765 486,283.453 "
          style="fill:#f77c00;fill-opacity:1" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          style="fill:#f77c00;fill-opacity:1"
-         points="157.738,46.844 255.796,94.214 353.971,46.11 255.718,1.305 "
+         points="255.796,94.214 353.971,46.11 255.718,1.305 157.738,46.844 "
          id="polygon3164" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          style="fill:#f77c00;fill-opacity:1"
-         points="378.516,57.312 280.36,106.078 385.919,157.071 484.074,105.467 "
+         points="280.36,106.078 385.919,157.071 484.074,105.467 378.516,57.312 "
          id="polygon3166" />
       <polygon
          transform="matrix(0.04297393,0,0,0.04297393,12.881967,1015.8035)"
          style="fill:#f77c00;fill-opacity:1"
-         points="126.212,157.733 231.276,106.24 133.296,58.201 28.627,106.85 "
+         points="231.276,106.24 133.296,58.201 28.627,106.85 126.212,157.733 "
          id="polygon3170" />
     </g>
-    <g
-       style="opacity:0.15;fill:#000000;fill-opacity:1"
-       transform="translate(0.04611965,-0.3636924)"
-       id="g4596">
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         d="m 8.5710677,1013.3665 0,8.8892 1.3304721,0 0,-7.5587 7.5587452,0 0,-1.3305 -8.8892173,0 z"
-         id="path4598"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4600"
-         d="m 8.5710677,1044.3665 8.8892303,0 0,-1.3305 -7.5587582,0 0,-7.5588 -1.3304721,0 0,8.8893 z"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4602"
-         d="m 39.571068,1013.3665 0,8.8892 -1.330471,0 0,-7.5587 -7.558747,0 0,-1.3305 8.889218,0 z"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         d="m 39.571068,1044.3665 -8.889232,0 0,-1.3305 7.558761,0 0,-7.5588 1.330471,0 0,8.8893 z"
-         id="path4604" />
-    </g>
-    <g
-       id="g4539"
-       transform="translate(-0.18825535,-0.6449424)"
-       style="fill:#045585;fill-opacity:1">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4522"
-         d="m 8.5710677,1013.3665 0,8.8892 1.3304721,0 0,-7.5587 7.5587452,0 0,-1.3305 -8.8892173,0 z"
-         style="fill:#045585;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#045585;fill-opacity:1;stroke:none"
-         d="m 8.5710677,1044.3665 8.8892303,0 0,-1.3305 -7.5587582,0 0,-7.5588 -1.3304721,0 0,8.8893 z"
-         id="path4529" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#045585;fill-opacity:1;stroke:none"
-         d="m 39.571068,1013.3665 0,8.8892 -1.330471,0 0,-7.5587 -7.558747,0 0,-1.3305 8.889218,0 z"
-         id="path4531" />
-      <path
-         id="path4533"
-         d="m 39.571068,1044.3665 -8.889232,0 0,-1.3305 7.558761,0 0,-7.5588 1.330471,0 0,8.8893 z"
-         style="fill:#045585;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#0d94c6;fill-opacity:1;stroke:none"
+       d="m 8,1011.3622 0,9 1.9999997,0 0,-7 7.0000003,0 0,-2 z"
+       id="rect4522"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3051"
+       d="m 40,1011.3622 0,9 -2,0 0,-7 -7,0 0,-2 z"
+       style="fill:#0d94c6;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3053"
+       d="m 8,1043.3622 0,-9 2,0 0,7 7,0 0,2 z"
+       style="fill:#0d94c6;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#0d94c6;fill-opacity:1;stroke:none"
+       d="m 40,1043.3622 0,-9 -2,0 0,7 -7,0 0,2 z"
+       id="path3055"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
