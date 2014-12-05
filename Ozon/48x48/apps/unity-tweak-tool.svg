@@ -15,17 +15,20 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.5 r"
-   sodipodi:docname="unity-tweak-tool.svg">
+   sodipodi:docname="unity-tweak-tool.svg"
+   inkscape:export-filename="/media/Data/Home/Documents/my-ozon/preview/unity-tweak-tool1.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240">
   <defs
      id="defs4232">
     <linearGradient
        id="linearGradient3846">
       <stop
-         style="stop-color:#dfcdd0;stop-opacity:1;"
+         style="stop-color:#e4c8d2;stop-opacity:1;"
          offset="0"
          id="stop3848" />
       <stop
-         style="stop-color:#ccbabd;stop-opacity:1;"
+         style="stop-color:#d7afbd;stop-opacity:1;"
          offset="1"
          id="stop3850" />
     </linearGradient>
@@ -358,16 +361,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.4562896"
-     inkscape:cx="24.06121"
+     inkscape:cx="7.3527539"
      inkscape:cy="21.819424"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
+     inkscape:window-width="1327"
      inkscape:window-height="736"
-     inkscape:window-x="0"
+     inkscape:window-x="39"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      showguides="true"
@@ -384,7 +387,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -483,7 +486,7 @@
     </g>
     <path
        sodipodi:type="arc"
-       style="fill:#604e51;fill-opacity:1;stroke:none"
+       style="fill:#8f757e;fill-opacity:1;stroke:none"
        id="path4505"
        sodipodi:cx="12.5"
        sodipodi:cy="22.5"
@@ -496,7 +499,7 @@
        inkscape:connector-curvature="0"
        id="path4507"
        d="m 16,16 16,0 0,12 -16,0 z"
-       style="fill:#604e51;fill-opacity:1;stroke:none;display:inline" />
+       style="fill:#8f757e;fill-opacity:1;stroke:none;display:inline" />
     <path
        inkscape:connector-curvature="0"
        id="path3859"
