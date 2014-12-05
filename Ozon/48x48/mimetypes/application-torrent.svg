@@ -78,19 +78,6 @@
        x2="24"
        y2="1006.3622"
        gradientUnits="userSpaceOnUse" />
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask13865">
-      <rect
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect13867"
-         width="38"
-         height="44"
-         x="5"
-         y="1006.3622"
-         rx="3"
-         ry="3" />
-    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -99,9 +86,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="73.153042"
-     inkscape:cy="18.073856"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="37.951413"
+     inkscape:cy="23.068413"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -156,11 +143,9 @@
        rx="3"
        ry="3" />
     <path
-       style="opacity:0.76999996;fill:#000000;fill-opacity:1;stroke:none"
-       d="M -13.999779,998.376 -14,1029.2523 l 31.689105,0 0,-9.2327 -6.03786,0 9.346035,-9.3456 9.345594,9.3456 -6.037419,0 0,1.7643 0,7.4684 0,7.7643 -6.037419,0 9.345594,9.3456 9.345594,-9.3456 -6.037419,0 0,-7.7643 31.078195,0 0,-30.8763 z"
-       id="rect13072"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccc"
-       mask="url(#mask13865)" />
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 8 2 C 6.338 2 5 3.338 5 5 L 5 24.875 L 17.6875 24.875 L 17.6875 15.65625 L 11.65625 15.65625 L 21 6.3125 L 30.34375 15.65625 L 24.3125 15.65625 L 24.3125 17.40625 L 24.3125 24.875 L 24.3125 32.65625 L 18.28125 32.65625 L 27.625 42 L 36.96875 32.65625 L 30.90625 32.65625 L 30.90625 24.875 L 43 24.875 L 43 5 C 43 3.338 41.662 2 40 2 L 8 2 z "
+       transform="translate(0,1004.3622)"
+       id="rect13867" />
   </g>
 </svg>
