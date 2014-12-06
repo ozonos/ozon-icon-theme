@@ -1,4 +1,4 @@
-## Ozon
+# Ozon
 This is the default icon theme for OzonOS. It's licensed under the GNU GPLv3+.
 
 ## Installing
