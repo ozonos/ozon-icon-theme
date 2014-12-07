@@ -388,10 +388,10 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -541,7 +541,7 @@
        rx="9" />
     <g
        id="g33"
-       transform="matrix(1.1767589,0,0,1.2750174,-9.747097,-7.3078652)"
+       transform="matrix(1.1767589,0,0,1.2750174,-9.747097,-6.3078652)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -565,7 +565,7 @@
     </g>
     <g
        id="g43"
-       transform="matrix(1.1767436,0,0,1.2750174,-4.2747094,-8.4092956)"
+       transform="matrix(1.1767436,0,0,1.2750174,-4.2747094,-7.4092956)"
        style="fill:url(#linearGradient3862);fill-opacity:1">
       <g
          clip-path="url(#clipPath-990187458)"
