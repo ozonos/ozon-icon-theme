@@ -14,9 +14,9 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r"
-   sodipodi:docname="netbeans.svg"
-   inkscape:export-filename="/home/webdesign/Desktop/netbeans.png"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="qbittorrent.svg"
+   inkscape:export-filename="/home/carlos/Desktop/qbittorrent.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -111,16 +111,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="25.492135"
-     inkscape:cy="20.567826"
+     inkscape:zoom="15.999999"
+     inkscape:cx="29.62003"
+     inkscape:cy="20.980979"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -208,7 +208,7 @@
       <path
          style="fill:#000000;fill-opacity:1;stroke:none"
          inkscape:transform-center-y="0.30341656"
-         d="m 26,1014.3622 2.500004,2.5 -5.000008,0 z"
+         d="m 26,1013.3622 2.500004,3 -5.000008,0 z"
          id="path13846"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
@@ -216,7 +216,7 @@
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path13848"
-         d="m 22,1038.3622 -2.500004,-2.5 5.000008,0 z"
+         d="m 22,1039.3622 -2.500004,-3 5.000008,0 z"
          inkscape:transform-center-y="-0.30341656"
          style="fill:#000000;fill-opacity:1;stroke:none" />
       <path
@@ -253,13 +253,13 @@
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="rect13809"
-         d="m 26,1014.3622 2.500004,2.5 -5.000008,0 z"
+         d="m 26,1013.3622 2.500004,3 -5.000008,0 z"
          inkscape:transform-center-y="0.30341656"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:transform-center-y="-0.30341656"
-         d="m 22,1038.3622 -2.500004,-2.5 5.000008,0 z"
+         d="m 22,1039.3622 -2.500004,-3 5.000008,0 z"
          id="path13812"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
