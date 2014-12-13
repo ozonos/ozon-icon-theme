@@ -14,7 +14,7 @@
    viewBox="0 0 6.3499992 6.3500002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="go-forward.svg">
   <defs
      id="defs4" />
@@ -34,10 +34,10 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -93,9 +93,10 @@
      id="layer1"
      transform="translate(0,-290.64997)">
     <path
-       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="m 3.4406166,291.44372 2.1156335,2.11615 0,5.2e-4 0,0.52916 0,5.2e-4 -2.1156335,2.11615 -0.3741372,-0.37414 1.7420126,-1.74253 -4.01474242,0 0,-0.52916 4.01474242,0 -1.7420126,-1.74253 0.3741372,-0.37414 z"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       d="m 3.1760661,291.70829 2.115621,1.85158 0,5.2e-4 0,0.52916 0,5.2e-4 -2.1156335,1.85158 -0.3741372,-0.37414 1.7420126,-1.47796 -3.4855961,0 0,-0.52916 3.4855961,0 -1.7420001,-1.47796 z"
        id="rect4184"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>
