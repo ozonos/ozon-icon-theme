@@ -14,11 +14,11 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="miška.svg"
-   inkscape:export-filename="/home/uri/mouse.png"
-   inkscape:export-xdpi="960"
-   inkscape:export-ydpi="960">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mouse.svg"
+   inkscape:export-filename="/home/carlos/Desktop/mouse.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4232">
     <linearGradient
@@ -392,18 +392,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.376857"
-     inkscape:cx="27.541592"
-     inkscape:cy="35.18571"
+     inkscape:zoom="1"
+     inkscape:cx="-55.217158"
+     inkscape:cy="58.789607"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -495,7 +495,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -555,25 +555,25 @@
        style="text-decoration:none;color:#000000;fill:#c8cdd0;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4253"
        width="44"
-       height="2"
+       height="1"
        x="2"
-       y="13"
+       y="15"
        rx="0"
        ry="0" />
     <rect
        style="text-decoration:none;color:#000000;fill:#c8cdd0;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4255"
-       width="2"
+       width="1"
        height="12"
        x="23"
        y="2" />
     <rect
-       style="text-decoration:none;color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="text-decoration:none;opacity:0.35;color:#000000;fill:#5c666c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4267"
        width="44"
        height="1"
        x="2"
-       y="15"
+       y="14"
        ry="0.5"
        rx="0" />
     <rect
@@ -591,6 +591,13 @@
        height="9"
        x="25"
        y="2" />
+    <rect
+       y="2"
+       x="24"
+       height="12"
+       width="1"
+       id="rect3865"
+       style="text-decoration:none;opacity:0.35;color:#000000;fill:#5d666b;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      inkscape:label="Symbol"
