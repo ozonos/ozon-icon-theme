@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="go-previous.svg">
+   sodipodi:docname="go-up.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="9.1201485"
+     inkscape:cx="1.1651972"
      inkscape:cy="13.346159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -94,8 +94,9 @@
      transform="translate(0,-290.64997)">
     <path
        style="fill:#333333;fill-opacity:1;stroke:none"
-       d="m 0.79374976,294.09059 2.11614994,2.11563 5.168e-4,0 0.5291667,0 5.167e-4,0 2.11615,-2.11563 -0.3741373,-0.37414 -1.7425294,1.74201 0,-4.01474 -0.5291667,0 0,4.01474 -1.7425294,-1.74201 -0.37413734,0.37414 z"
+       d="m 5.29169,293.82603 -1.85158,2.11562 -5.2e-4,0 -0.52916,0 -5.2e-4,0 -1.85158,-2.11564 0.37414,-0.37413 1.47796,1.74201 0,-3.4856 0.52916,0 0,3.4856 1.47796,-1.742 z"
        id="rect4184"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>
