@@ -15,7 +15,7 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="miška-nova.svg"
+   sodipodi:docname="miška.svg"
    inkscape:export-filename="/home/uri/mouse.png"
    inkscape:export-xdpi="960"
    inkscape:export-ydpi="960">
@@ -637,7 +637,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -749,7 +749,7 @@
        height="44"
        width="44"
        id="rect4052"
-       style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
