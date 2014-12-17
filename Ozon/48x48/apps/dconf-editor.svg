@@ -15,7 +15,7 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="dŭkonf-nova-6.svg"
+   sodipodi:docname="dconf-editor.svg"
    inkscape:export-filename="/home/webdesign/Downloads/ozon icons/texteditor.png"
    inkscape:export-xdpi="960"
    inkscape:export-ydpi="960">
@@ -853,18 +853,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.21297"
+     inkscape:zoom="1"
      inkscape:cx="35.058612"
-     inkscape:cy="26.207324"
+     inkscape:cy="32.815353"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
+     inkscape:current-layer="layer2"
+     showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1364"
+     inkscape:window-height="708"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -955,7 +955,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1019,8 +1019,8 @@
      transform="translate(0,-1004.3622)"
      style="display:inline">
     <rect
-       ry="6"
-       rx="6"
+       ry="7.0000172"
+       rx="7"
        y="1013.3622"
        x="14"
        height="28.000017"

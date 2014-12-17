@@ -14,7 +14,7 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="media-memory-sd.svg"
    inkscape:export-filename="/home/uri/disks.png"
    inkscape:export-xdpi="960"
@@ -71,17 +71,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="46.611917"
-     inkscape:cy="6.3653222"
+     inkscape:zoom="1"
+     inkscape:cx="42.6003"
+     inkscape:cy="23.538741"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
-     showgrid="true"
+     showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
+     inkscape:window-width="1364"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
      showguides="false">
@@ -227,8 +227,10 @@
        rx="9" />
     <path
        style="fill:#35cbc4;fill-opacity:1;stroke:none"
-       d="M 12.773438 5 C 8.4673467 5 5 8.4673467 5 12.773438 L 5 32.226562 C 5 36.532653 8.4673467 40 12.773438 40 L 35.226562 40 C 39.532653 40 43 36.532653 43 32.226562 L 43 24 L 41 24 L 41 17 L 43 17 L 43 12.773438 C 43 8.4673467 39.532653 5 35.226562 5 L 12.773438 5 z "
-       id="rect4184" />
+       d="M 11,5 C 5,5 5,11 5,11 l 0,23 c 0,6 6,6 6,6 l 26,0 c 0,0 6,0 6,-6 l 0,-10 -2,0 0,-7 2,0 0,-6 C 43,5 37,5 37,5 z"
+       id="rect4184"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scsccsccccscs" />
     <path
        style="fill:#a8e9e5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 24,7 -4,3 8,0 z"
