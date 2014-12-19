@@ -15,7 +15,7 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="pe-klaud.svg">
+   sodipodi:docname="pcloud.svg">
   <defs
      id="defs4232">
     <linearGradient
@@ -549,7 +549,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -614,7 +614,7 @@
      style="display:inline">
     <path
        transform="matrix(2.3333333,0,0,2.3333333,-53.999999,967.69553)"
-       d="m 42,27.5 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="M 42,27.5 C 42,28.328427 41.328427,29 40.5,29 39.671573,29 39,28.328427 39,27.5 39,26.671573 39.671573,26 40.5,26 c 0.828427,0 1.5,0.671573 1.5,1.5 z"
        sodipodi:ry="1.5"
        sodipodi:rx="1.5"
        sodipodi:cy="27.5"
@@ -650,7 +650,7 @@
        sodipodi:cy="27.5"
        sodipodi:rx="1.5"
        sodipodi:ry="1.5"
-       d="m 42,27.5 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
+       d="M 42,27.5 C 42,28.328427 41.328427,29 40.5,29 39.671573,29 39,28.328427 39,27.5 39,26.671573 39.671573,26 40.5,26 c 0.828427,0 1.5,0.671573 1.5,1.5 z"
        transform="translate(0,1004.3622)" />
     <rect
        style="fill:url(#linearGradient4034);fill-opacity:1;stroke:none"
@@ -708,11 +708,6 @@
        width="3"
        id="rect4054"
        style="fill:#7c5e04;fill-opacity:1;stroke:none" />
-    <path
-       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 40.5 26 C 39.671573 26 39 26.671573 39 27.5 C 39 27.672589 39.040108 27.845681 39.09375 28 C 39.29759 27.413588 39.844162 27 40.5 27 C 41.155838 27 41.70241 27.413588 41.90625 28 C 41.959892 27.845681 42 27.672589 42 27.5 C 42 26.671573 41.328427 26 40.5 26 z "
-       transform="translate(0,1004.3622)"
-       id="path4056" />
   </g>
   <g
      inkscape:groupmode="layer"
