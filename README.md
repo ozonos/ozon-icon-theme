@@ -10,8 +10,7 @@ Arch users can install this community maintained [AUR package](https://aur.archl
   * `~/.icons`
   * `~/.local/share/icons/`
 
-**You can also run the following commands in your terminal**
-
+**You can also run the following commands in your terminal:**
 ```bash
 git clone https://github.com/ozonos/ozon-icon-theme.git
 cd ozon-icon-theme
