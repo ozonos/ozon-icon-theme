@@ -14,7 +14,8 @@ Arch users can install this community maintained [AUR package](https://aur.archl
 ```bash
 git clone https://github.com/ozonos/ozon-icon-theme.git
 cd ozon-icon-theme
-make install```
+make install
+```
 
 ## Icon Requests
 The Ozon developers will only be covering the programs that come by default with the OS. We will however be welcoming user contributions to fill in the gaps - see below for more info. Regardless, you're more than welcome to submit requests for all missing applications. For normal applications follow [this video tutorial](https://plus.google.com/+NumixprojectOrg/posts/DkRmhFZuWez), for Steam games follow [this one](https://www.youtube.com/watch?v=BuUy4CzCoXc) and for Chrome apps just post a link to the webstore page (in each case, substitute "Ozon" for "Numix"). When filing your request please be respectful, patient.
