@@ -10,16 +10,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="network-wireless-signal-weak-symbolic.svg"
-   inkscape:export-filename="/home/sam/img/source-symbolic.png"
+   sodipodi:docname="network-wireless-offline-symbolic.svg"
+   inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
-   height="16"
+   height="16.003357"
    id="svg7384"
    style="enable-background:new"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="16.000017">
+   width="16.028439">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-0.072281705"
-     inkscape:cy="8.0609423"
+     inkscape:cx="-41.440348"
+     inkscape:cy="28.970505"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -39,10 +39,10 @@
      pagecolor="#333333"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     showborder="true"
+     showborder="false"
      showgrid="true"
      showguides="true"
-     inkscape:showpageshadow="true"
+     inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
@@ -62,7 +62,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:zoom="68.35051">
+     inkscape:zoom="11.299746">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -72,8 +72,8 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-80px"
-       originy="-645.00336px"
+       originx="-104.03145px"
+       originy="-653px"
        snapvisiblegridlinesonly="true"
        spacingx="0.25px"
        spacingy="0.25px"
@@ -120,66 +120,65 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline"
-     transform="translate(-321.0002,428.00336)">
+     transform="translate(-345.03165,436.00336)">
     <path
        inkscape:connector-curvature="0"
-       d="m 329.03147,-426.00336 c -3.03435,0 -5.76588,1.1247 -8.03125,2.86873 l 8.03125,9.12776 7.96875,-9.16036 c -2.25661,-1.72467 -4.9577,-2.83613 -7.96875,-2.83613 z"
-       id="path5938"
+       d="m 353.0629,-434 c -3.03435,0 -5.76588,1.12503 -8.03125,2.86957 l 8.03125,9.13043 7.96875,-9.16304 C 358.77504,-432.88822 356.07395,-434 353.0629,-434 Z"
+       id="path4965"
        sodipodi:nodetypes="scccs"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
-       d="m 329.0002,-418.75 c -1.18529,0 -2.28823,0.41157 -3.21875,1.03033 l 3.25,3.71631 3.21875,-3.68371 c -0.93825,-0.63416 -2.04878,-1.06293 -3.25,-1.06293 z"
-       id="path5978"
-       sodipodi:nodetypes="scccs"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+       d="m 356.0002,-425 0,1 c 0,0.27614 0.10029,0.53779 0.28125,0.71875 l 0.78125,0.78125 -0.78125,0.78125 c -0.18096,0.18096 -0.28125,0.44261 -0.28125,0.71875 l 0,1 1,0 c 0.27614,0 0.53779,-0.10029 0.71875,-0.28125 l 0.78125,-0.78125 0.78125,0.78125 c 0.18096,0.18096 0.44261,0.28125 0.71875,0.28125 l 1,0 0,-1 c 0,-0.27614 -0.10029,-0.53779 -0.28125,-0.71875 l -0.78125,-0.78125 0.78125,-0.78125 c 0.18096,-0.18096 0.28125,-0.44261 0.28125,-0.71875 l 0,-1 -1,0 c -0.27614,0 -0.53779,0.10029 -0.71875,0.28125 l -0.78125,0.78125 -0.78125,-0.78125 C 357.53799,-424.89971 357.27634,-425 357.0002,-425 l -1,0 z"
+       id="path5898-0-9"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline;filter:url(#filter7554)"
-     transform="translate(-321.0002,428.00336)" />
+     transform="translate(-345.03165,436.00336)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-80,-188.99664)" />
+     transform="translate(-104.03145,-180.99664)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes"
      style="display:inline"
-     transform="translate(-321.0002,428.00336)" />
+     transform="translate(-345.03165,436.00336)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-321.0002,428.00336)" />
+     transform="translate(-345.03165,436.00336)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-321.0002,428.00336)" />
+     transform="translate(-345.03165,436.00336)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-80,-38.996641)" />
+     transform="translate(-104.03145,-30.996643)" />
   <g
      inkscape:groupmode="layer"
      id="g6058"
      inkscape:label="apps"
      style="display:inline"
-     transform="translate(-80,-38.996641)" />
+     transform="translate(-104.03145,-30.996643)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-321.0002,428.00336)" />
+     transform="translate(-345.03165,436.00336)" />
 </svg>
