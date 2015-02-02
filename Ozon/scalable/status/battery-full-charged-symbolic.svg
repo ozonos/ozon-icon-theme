@@ -14,11 +14,11 @@
    viewBox="0 0 16 16"
    width="16"
    xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="baterija-pŭlna-zaredena.svg"><metadata
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="battery-full-charged-symbolic.svg"><metadata
      id="metadata12"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs10" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -33,8 +33,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="59.781776"
-     inkscape:cx="6.3963131"
-     inkscape:cy="4.7568084"
+     inkscape:cx="3.995916"
+     inkscape:cy="7.3997543"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -45,6 +45,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" /></sodipodi:namedview><path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="M 3,2 C 2.446,2 2,2.446 2,3 l 0,12 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 L 14,3 C 14,2.446 13.554,2 13,2 Z"
+     id="rect3831"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" /><path
      inkscape:connector-curvature="0"
      d="m 8.3181003,5.2888474 -3.0202134,3 C 5.0634437,8.5195874 5,8.6219641 5,9 l 0,1 2.5,0 -1.2038112,1.281188 C 6.0823602,11.500498 6,11.647753 6,12 l 0,1 1.0123219,-1.12e-4 c 0.2628993,0.004 0.5259879,-0.099 0.7161331,-0.28125 L 10.717532,9.7262977 C 10.900553,9.5365377 11.006078,9.26404 11,9 L 11,8 8.5,8 9.7503664,6.7263474 C 9.9641954,6.5070474 10,6.3330423 10,6 L 10,5 9,5 C 8.6383335,5 8.4974778,5.136864 8.3181003,5.2888474 z"
      id="path10747"
@@ -66,7 +71,4 @@
      height="14"
      width="10"
      id="rect3799"
-     style="fill:#bebebe;fill-opacity:1;stroke:none" /><path
-     style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 15 C 2 15.554 2.446 16 3 16 L 13 16 C 13.554 16 14 15.554 14 15 L 14 3 C 14 2.446 13.554 2 13 2 L 3 2 z M 4 4 L 12 4 L 12 14 L 4 14 L 4 4 z "
-     id="rect3831" /></svg>
+     style="fill:#bebebe;fill-opacity:1;stroke:none" /></svg>
