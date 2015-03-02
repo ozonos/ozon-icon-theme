@@ -15,7 +15,7 @@
    viewBox="0 0 48 48.000001"
    id="svg4240"
    version="1.1"
-   inkscape:version="0.91pre4 r13712"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="mega.svg">
   <defs
      id="defs4242">
@@ -27,7 +27,7 @@
          offset="0"
          id="stop4157" />
       <stop
-         style="stop-color:#c8c8c8;stop-opacity:1"
+         style="stop-color:#ffcdcd;stop-opacity:1"
          offset="1"
          id="stop4159" />
     </linearGradient>
@@ -92,14 +92,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="31.524765"
-     inkscape:cy="22.14129"
+     inkscape:cx="18.295929"
+     inkscape:cy="24.984433"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1">
