@@ -22,3 +22,6 @@ The Ozon developers will only be covering the programs that come by default with
 
 ## User Contributions
 We welcome user contributions for all icons as long as they follow our [style guidelines](https://github.com/ozonos/ozon-icon-theme/wiki/Guidelines). If you're unsure how to work with GitHub, see [this tutorial](https://github.com/ozonos/ozon-icon-theme/wiki/Contributing). We've compiled a list of icons that need to be covered first, so if you want to contribute an icon, but don't know where to start see [this list](https://github.com/ozonos/ozon-icon-theme/labels/community).
+
+## Hardcoded Icons
+To deal with hardcoded application icons Ozon uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
