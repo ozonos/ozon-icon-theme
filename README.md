@@ -1,5 +1,5 @@
 # Ozon
-This is the default icon theme for OzonOS. It's licensed under the GNU GPLv3+.
+This is the default icon theme for OzonOS. It's licensed under the GNU GPLv3.
 
 ## Installing
 Arch users can install this community maintained [AUR package](https://aur.archlinux.org/packages/ozon-icon-theme-git/). Otherwise, [download the source](https://github.com/ozonos/ozon-icon-theme/archive/master.zip), extract it, and copy the "Ozon" folder to one of the following icon theme locations:
