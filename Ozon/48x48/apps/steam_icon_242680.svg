@@ -30,17 +30,6 @@
          style="stop-color:#f9e3a8;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4524">
-      <stop
-         style="stop-color:#a7bd6a;stop-opacity:1"
-         offset="0"
-         id="stop4526" />
-      <stop
-         style="stop-color:#b5c583;stop-opacity:1"
-         offset="1"
-         id="stop4528" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4243">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -71,28 +60,6 @@
        x2="24"
        y2="2"
        gradientUnits="userSpaceOnUse" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4412">
-      <rect
-         rx="9"
-         ry="9"
-         y="1.9999826"
-         x="2"
-         height="44"
-         width="44"
-         id="rect4414"
-         style="fill:url(#linearGradient4416);fill-opacity:1;stroke:none" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4524"
-       id="linearGradient4416"
-       gradientUnits="userSpaceOnUse"
-       x1="24"
-       y1="46"
-       x2="24"
-       y2="2" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7985"
@@ -255,9 +222,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-63.407864"
-     inkscape:cy="-6.9474913"
+     inkscape:zoom="16"
+     inkscape:cx="9.202209"
+     inkscape:cy="17.805887"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
