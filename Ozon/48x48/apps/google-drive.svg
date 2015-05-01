@@ -15,7 +15,7 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="drive.svg"
+   sodipodi:docname="google-drive.svg"
    inkscape:export-filename="C:\Users\Ruben\Desktop\drive.png"
    inkscape:export-xdpi="525"
    inkscape:export-ydpi="525">
@@ -501,7 +501,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="30.208618"
+     inkscape:cx="16.420036"
      inkscape:cy="24.608244"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -603,7 +603,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -668,43 +668,43 @@
      transform="translate(0,-1004.3622)"
      style="display:inline">
     <g
-       style="display:inline;fill:#000000;fill-opacity:0.05"
+       style="display:inline;fill:#000000;fill-opacity:0.1"
        id="Google_Drive_3_-4"
        transform="matrix(0.08402558,0,0,0.08402558,2.4530267,1006.2382)">
       <g
          id="Rectangle_1_1_-7"
-         style="fill:#000000;fill-opacity:0.05">
+         style="fill:#000000;fill-opacity:0.1">
         <g
            id="g10-3"
-           style="fill:#000000;fill-opacity:0.05">
+           style="fill:#000000;fill-opacity:0.1">
           <polygon
              points="201,304 143,406 369,406 429,304 "
              id="polygon12-9"
-             style="fill:#000000;fill-opacity:0.05" />
+             style="fill:#000000;fill-opacity:0.1" />
         </g>
       </g>
       <g
          id="Rectangle_2-0"
-         style="fill:#000000;fill-opacity:0.05">
+         style="fill:#000000;fill-opacity:0.1">
         <g
            id="g20-2"
-           style="fill:#000000;fill-opacity:0.05">
+           style="fill:#000000;fill-opacity:0.1">
           <polygon
              points="314.496,108.476 196.157,108.426 310.661,303.271 429,303.321 "
              id="polygon22-8"
-             style="fill:#000000;fill-opacity:0.05" />
+             style="fill:#000000;fill-opacity:0.1" />
         </g>
       </g>
       <g
          id="Rectangle_3_1_-3"
-         style="fill:#000000;fill-opacity:0.05">
+         style="fill:#000000;fill-opacity:0.1">
         <g
            id="g30-1"
-           style="fill:#000000;fill-opacity:0.05">
+           style="fill:#000000;fill-opacity:0.1">
           <polygon
              points="195.355,107.02 83.867,303.605 142.993,406.115 255,209 "
              id="polygon32-0"
-             style="fill:#000000;fill-opacity:0.05" />
+             style="fill:#000000;fill-opacity:0.1" />
         </g>
       </g>
     </g>
