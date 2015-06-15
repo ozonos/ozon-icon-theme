@@ -16,6 +16,6 @@ local:
 	cp -rf Ozon/* $(INSTALLDIR)
 
 uninstall:
-	#Uninstall atom-panel
+	#Uninstall ozon-icon-theme
 	-rm -rf $(INSTALLDIR)
 
