@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="minecraft_2.svg"
-   inkscape:export-filename="C:\Users\Critec\Desktop\bitmap.png"
+   inkscape:export-filename="C:\Users\Critec\Desktop\mine_48.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1169,9 +1169,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="12.560014"
-     inkscape:cy="51.031104"
+     inkscape:zoom="8.4852814"
+     inkscape:cx="-1.3916526"
+     inkscape:cy="23.461922"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1935,146 +1935,11 @@
        id="path7111"
        d="m 32,1048.3622 0,2 4,0 0,-2 -4,0 z"
        style="display:inline;fill:#74cb63;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
+    <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7113"
-       width="3.9999993"
-       height="3.9999993"
-       x="28"
-       y="1016.3621" />
-    <rect
-       y="1016.3621"
-       x="32"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7115"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       y="1020.3622"
-       x="28"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7117"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7119"
-       width="3.9999993"
-       height="3.9999993"
-       x="32"
-       y="1020.3622" />
-    <rect
-       y="1016.3621"
-       x="12"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7121"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7123"
-       width="3.9999993"
-       height="3.9999993"
-       x="16"
-       y="1016.3621" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7125"
-       width="3.9999993"
-       height="3.9999993"
-       x="12"
-       y="1020.3622" />
-    <rect
-       y="1020.3622"
-       x="16"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7127"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7129"
-       width="3.9999993"
-       height="3.9999993"
-       x="20"
-       y="1024.3622" />
-    <rect
-       y="1024.3622"
-       x="24"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7131"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       y="1028.3622"
-       x="20"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7133"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7135"
-       width="3.9999993"
-       height="3.9999993"
-       x="24"
-       y="1028.3622" />
-    <rect
-       y="1032.3623"
-       x="16.000004"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7137"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7139"
-       width="3.9999993"
-       height="3.9999993"
-       x="16.000004"
-       y="1036.3623" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7141"
-       width="3.9999993"
-       height="3.9999993"
-       x="16.000004"
-       y="1028.3623" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7143"
-       width="3.9999993"
-       height="3.9999993"
-       x="28"
-       y="1032.3623" />
-    <rect
-       y="1036.3623"
-       x="28"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7145"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       y="1028.3623"
-       x="28"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7147"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect7149"
-       width="3.9999993"
-       height="3.9999993"
-       x="20"
-       y="1032.3623" />
-    <rect
-       y="1032.3623"
-       x="24"
-       height="3.9999993"
-       width="3.9999993"
-       id="rect7151"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       d="M 12 12 L 12 16 L 12 20 L 16 20 L 20 20 L 20 16 L 20 12 L 16 12 L 12 12 z M 20 20 L 20 24 L 16 24 L 16 28 L 16 32 L 16 36 L 20 36 L 20 32 L 24 32 L 28 32 L 28 36 L 32 36 L 32 32 L 32 28 L 32 24 L 28 24 L 28 20 L 24 20 L 20 20 z M 28 20 L 32 20 L 36 20 L 36 16 L 36 12 L 32 12 L 28 12 L 28 16 L 28 20 z "
+       transform="translate(0,1004.3622)"
+       id="rect7113" />
     <path
        inkscape:connector-curvature="0"
        id="path7153"
