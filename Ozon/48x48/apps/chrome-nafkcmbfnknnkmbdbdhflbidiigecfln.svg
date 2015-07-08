@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="chrome-nafkcmbfnknnkmbdbdhflbidiigecfln.svg"
-   inkscape:export-filename="./icon-48.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="./icon-192.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
   <defs
      id="defs4232">
     <linearGradient
@@ -297,9 +297,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="18.537568"
-     inkscape:cy="36.748703"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="28.119262"
+     inkscape:cy="28.699449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -522,15 +522,15 @@
     <g
        id="g3423"
        transform="translate(0,4.9999987)"
-       style="fill:#2aff2a">
+       style="fill:#71c837">
       <circle
          r="2"
          cy="1011.3622"
          cx="38"
          id="path3417"
-         style="fill:#2aff2a;fill-opacity:1" />
+         style="fill:#71c837;fill-opacity:1" />
       <circle
-         style="fill:#2aff2a;fill-opacity:1"
+         style="fill:#71c837;fill-opacity:1"
          id="circle3419"
          cx="38"
          cy="1021.3622"
@@ -540,7 +540,7 @@
          cy="1031.3622"
          cx="38"
          id="circle3421"
-         style="fill:#2aff2a;fill-opacity:1" />
+         style="fill:#71c837;fill-opacity:1" />
     </g>
   </g>
   <g
