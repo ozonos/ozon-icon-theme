@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-71 73 48 48" enable-background="new -71 73 48 48" xml:space="preserve">
+<g id="svg4230" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="brasero.svg" inkscape:version="0.48.4 r9939">
+	
+		<sodipodi:namedview  showguides="false" borderlayer="true" showgrid="true" inkscape:cy="23.468267" inkscape:cx="36.425611" inkscape:zoom="11.313709" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:guide-bbox="true" inkscape:window-maximized="1" inkscape:window-y="28" inkscape:window-x="0" inkscape:current-layer="layer1" inkscape:showpageshadow="false" inkscape:document-units="px" inkscape:window-height="843" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-width="1600">
+		<inkscape:grid  type="xygrid" id="grid4162"></inkscape:grid>
+		<sodipodi:guide  orientation="46,0" position="1.0000013,47.000017" id="guide4163"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,45.999999" position="1.0000013,1.0000174" id="guide4165"></sodipodi:guide>
+		<sodipodi:guide  orientation="-46,0" position="47,1.0000174" id="guide4167"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,-45.999999" position="47,47.000017" id="guide4169"></sodipodi:guide>
+		<sodipodi:guide  orientation="44,0" position="2.0000007,46.000017" id="guide4173"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,43.999999" position="2.0000007,2.0000174" id="guide4175"></sodipodi:guide>
+		<sodipodi:guide  orientation="-44,0" position="46,2.0000174" id="guide4177"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,-43.999999" position="46,46.000017" id="guide4179"></sodipodi:guide>
+		<sodipodi:guide  orientation="42,0" position="3,45.000017" id="guide4183"></sodipodi:guide>
+		<sodipodi:guide  orientation="-42,0" position="45,3.0000174" id="guide4187"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,-42" position="45,45.000017" id="guide4189"></sodipodi:guide>
+		<sodipodi:guide  orientation="42,0" position="3,45.000017" id="guide4193"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,42" position="3,3.0000174" id="guide4195"></sodipodi:guide>
+		<sodipodi:guide  orientation="-42,0" position="45,3.0000174" id="guide4197"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,-42" position="45,45.000017" id="guide4199"></sodipodi:guide>
+		<sodipodi:guide  orientation="7,0" position="3,10.000017" id="guide4203"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,42" position="3,3.0000174" id="guide4205"></sodipodi:guide>
+		<sodipodi:guide  orientation="-7,0" position="45,3.0000174" id="guide4207"></sodipodi:guide>
+		<sodipodi:guide  orientation="0,-42" position="45,10.000017" id="guide4209"></sodipodi:guide>
+	</sodipodi:namedview>
+	<g id="layer3" inkscape:label="Fake blur shadow" sodipodi:insensitive="true" inkscape:groupmode="layer">
+		<path id="rect3829" inkscape:connector-curvature="0" opacity="6.000001e-002" enable-background="new    " d="M-61,74
+			c-5,0-9,4-9,9v28c0,5,4,9,9,9h28c5,0,9-4,9-9V83c0-5-4-9-9-9H-61z M-60.5,74.5h27c5,0,9,4,9,9v27c0,5-4,9-9,9h-27c-5,0-9-4-9-9
+			v-27C-69.5,78.5-65.5,74.5-60.5,74.5z"/>
+		<path id="rect3827" inkscape:connector-curvature="0" opacity="0.12" enable-background="new    " d="M-60.5,74.5c-5,0-9,4-9,9v27
+			c0,5,4,9,9,9h27c5,0,9-4,9-9v-27c0-5-4-9-9-9H-60.5z M-60.3,74.8h26.5c5,0,9,4,9,9v26.5c0,5-4,9-9,9h-26.5c-5,0-9-4-9-9V83.8
+			C-69.3,78.8-65.2,74.8-60.3,74.8z"/>
+		<path id="rect3038-4" opacity="0.24" enable-background="new    " d="M-60.3,74.8h26.5c5,0,9,4,9,9v26.5c0,5-4,9-9,9h-26.5
+			c-5,0-9-4-9-9V83.8C-69.3,78.8-65.2,74.8-60.3,74.8z"/>
+	</g>
+	<g id="layer6" inkscape:label="Blob" sodipodi:insensitive="true" inkscape:groupmode="layer">
+		
+			<radialGradient id="rect4241_1_" cx="-49.9583" cy="-211.3896" r="23" gradientTransform="matrix(1.0435 0 0 -0.1957 5.1304 75.1413)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</radialGradient>
+		<path id="rect4241" inkscape:connector-curvature="0" opacity="0.3" fill="url(#rect4241_1_)" enable-background="new    " d="
+			M-70,112c0.5,4.5,4.3,8,9,8h28c4.7,0,8.5-3.5,9-8H-70z"/>
+	</g>
+	<g id="layer2" inkscape:label="Baseplate" inkscape:groupmode="layer">
+		
+			<linearGradient id="rect3038_1_" gradientUnits="userSpaceOnUse" x1="-47" y1="77" x2="-47" y2="121" gradientTransform="matrix(1 0 0 -1 -2.380430e-002 195.9161)">
+			<stop  offset="0" style="stop-color:#231F20"/>
+			<stop  offset="1" style="stop-color:#4D4D4F"/>
+		</linearGradient>
+		<path id="rect3038" fill="url(#rect3038_1_)" d="M-60,74.9h26c5,0,9,4,9,9v26c0,5-4,9-9,9h-26c-5,0-9-4-9-9v-26
+			C-69,78.9-65,74.9-60,74.9z"/>
+		<path id="path6396" inkscape:connector-curvature="0" fill="#FFFCFC" fill-opacity="0" d="M-69,94h44v2h-44V94z"/>
+	</g>
+	<g id="layer4" inkscape:label="Inset" sodipodi:insensitive="true" inkscape:groupmode="layer">
+		<path id="rect3038-42" inkscape:connector-curvature="0" opacity="0.15" enable-background="new    " d="M-69,107v3c0,5,4,9,9,9
+			h26c5,0,9-4,9-9v-3c0,5-4,9-9,9h-26C-65,116-69,112-69,107z"/>
+	</g>
+	<g id="Layer_2">
+	</g>
+</g>
+<g id="Layer_3">
+	
+		<radialGradient id="chevron_1_" cx="-145.4157" cy="193.9071" r="2.879637e-002" gradientTransform="matrix(610 0 0 -1000.5 88664 194099)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F9BE03"/>
+		<stop  offset="1" style="stop-color:#CC7C19"/>
+	</radialGradient>
+	<path id="chevron" sketch:type="MSShapeGroup" fill="url(#chevron_1_)" d="M-56.5,79.4h9l10,15.6l-10,15.6h-9l10-15.6L-56.5,79.4"
+		/>
+</g>
+</svg>
