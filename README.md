@@ -1,5 +1,5 @@
 # Ozon
-This is the default icon theme for OzonOS. It's licensed under the GNU GPLv3.
+This is the default icon theme for OzonOS. It also contains several variants with different coloured folders. It's licensed under the GNU GPLv3.
 
 ## Installing
 Arch users can install this community maintained [AUR package](https://aur.archlinux.org/packages/ozon-icon-theme-git/). Ubuntu users can install using our [PPA](https://launchpad.net/~ozonos/+archive/ubuntu/ppa). Otherwise, [download the source](https://github.com/ozonos/ozon-icon-theme/archive/master.zip), extract it, and copy the "Ozon" folder to one of the following icon theme locations:
@@ -24,4 +24,4 @@ The Ozon developers will only be covering the programs that come by default with
 We welcome user contributions for all icons as long as they follow our [style guidelines](https://github.com/ozonos/ozon-icon-theme/wiki/Guidelines). If you're unsure how to work with GitHub, see [this tutorial](https://github.com/ozonos/ozon-icon-theme/wiki/Contributing). We've compiled a list of icons that need to be covered first, so if you want to contribute an icon, but don't know where to start see [this list](https://github.com/ozonos/ozon-icon-theme/labels/community).
 
 ## Hardcoded Icons
-To deal with hardcoded application icons Ozon uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
+To deal with hardcoded application icons Ozon uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. To deal with hardcoded status icons we recommend you use the [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script.
