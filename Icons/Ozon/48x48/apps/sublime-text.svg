@@ -14,10 +14,22 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sublime-text.svg">
   <defs
      id="defs4232">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4296">
+      <stop
+         style="stop-color:#ff5d00;stop-opacity:1"
+         offset="0"
+         id="stop4298" />
+      <stop
+         style="stop-color:#ffc400;stop-opacity:1"
+         offset="1"
+         id="stop4300" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3869">
       <stop
@@ -290,26 +302,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3869"
-       id="linearGradient3875"
-       x1="25"
-       y1="39"
-       x2="25"
-       y2="8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90322581,0,0,0.90322581,2.2400704,1.7741934)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3869"
-       id="linearGradient3863"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90322581,0,0,0.90322581,2.24007,1.7741934)"
-       x1="25"
-       y1="39"
-       x2="25"
-       y2="8" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3869"
        id="linearGradient3871"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.90322581,0,0,0.90322581,0.2400704,1.7741934)"
@@ -317,6 +309,15 @@
        y1="39"
        x2="25"
        y2="8" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4296"
+       id="linearGradient4302"
+       x1="25"
+       y1="37"
+       x2="25"
+       y2="7"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -325,19 +326,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="40.892888"
-     inkscape:cy="25.622176"
+     inkscape:zoom="15.999999"
+     inkscape:cx="20.014875"
+     inkscape:cy="21.421131"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1395"
-     inkscape:window-height="895"
-     inkscape:window-x="197"
-     inkscape:window-y="51"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="1158"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -484,42 +485,38 @@
        y="1.9999826"
        ry="9"
        rx="9" />
-    <text
-       sodipodi:linespacing="125%"
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.41351318px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#f8ae49;fill-opacity:1;stroke:none"
        id="text3084"
-       y="35.083313"
-       x="11.073914"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:url(#linearGradient3875);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:url(#linearGradient3875);fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
-         y="35.083313"
-         x="11.073914"
-         id="tspan3086"
-         sodipodi:role="line">S</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3863"
-       y="35.986538"
-       x="11.073914"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       xml:space="preserve"><tspan
-         y="35.986538"
-         x="11.073914"
-         id="tspan3865"
-         sodipodi:role="line"
-         style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">S</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3863);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       x="11.073914"
-       y="35.083313"
-       id="text3859"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3861"
-         x="11.073914"
-         y="35.083313"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3863);fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">S</tspan></text>
+       transform="translate(0.01561165,1.3750001)">
+      <g
+         id="g4304">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4274"
+           y="35.490486"
+           x="11.984388"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.31372549;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Hasklig;-inkscape-font-specification:'Hasklig Heavy';fill:#000000;fill-opacity:0.31372549"
+             y="35.490486"
+             x="11.984388"
+             id="tspan4276"
+             sodipodi:role="line">S</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4274-2"
+           y="34.164661"
+           x="11.984388"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Comic Sans MS';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:url(#linearGradient4302);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Hasklig;-inkscape-font-specification:'Hasklig Heavy';fill:url(#linearGradient4302);fill-opacity:1"
+             y="34.164661"
+             x="11.984388"
+             id="tspan4276-5"
+             sodipodi:role="line">S</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      inkscape:label="Symbol"
@@ -535,7 +532,7 @@
      style="display:inline">
     <path
        style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 2,34 0,3 c 0,4.986 4.014,9 9,9 l 26,0 c 4.986,0 9,-4.014 9,-9 l 0,-3 c 0,4.986 -4.014,9 -9,9 L 11,43 C 6.014,43 2,38.986 2,34 z"
+       d="m 2,34 0,3 c 0,4.986 4.014,9 9,9 l 26,0 c 4.986,0 9,-4.014 9,-9 l 0,-3 c 0,4.986 -4.014,9 -9,9 L 11,43 C 6.014,43 2,38.986 2,34 Z"
        id="rect3038-42"
        inkscape:connector-curvature="0" />
   </g>
@@ -553,6 +550,6 @@
        height="44"
        width="44"
        id="rect4169"
-       style="fill:#abe1ad;fill-opacity:1;stroke:none;display:inline" />
+       style="display:inline;fill:#abe1ad;fill-opacity:1;stroke:none" />
   </g>
 </svg>
