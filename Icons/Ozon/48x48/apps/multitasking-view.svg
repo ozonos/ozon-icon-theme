@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg3387" inkscape:version="0.91 r13725" sodipodi:docname="multiwindow.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100"
+	 enable-background="new 0 0 100 100" xml:space="preserve">
+<sodipodi:namedview  id="namedview3447" inkscape:window-height="837" inkscape:pageopacity="0" inkscape:window-maximized="1" inkscape:pageshadow="2" inkscape:window-x="-8" inkscape:window-width="1600" inkscape:window-y="-8" inkscape:current-layer="svg4230" borderopacity="1" bordercolor="#666666" showgrid="false" inkscape:cy="24" objecttolerance="10" gridtolerance="10" inkscape:zoom="4.9166667" guidetolerance="10" pagecolor="#ffffff" inkscape:cx="4.9830508">
+	</sodipodi:namedview>
+<g id="svg4230" inkscape:version="0.48.4 r9939" sodipodi:docname="brasero.svg">
+	
+		<sodipodi:namedview  id="base" inkscape:window-height="843" inkscape:showpageshadow="false" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:document-units="px" inkscape:window-maximized="1" inkscape:pageshadow="2" inkscape:window-x="0" inkscape:window-width="1600" inkscape:window-y="28" inkscape:current-layer="layer1" borderopacity="1.0" bordercolor="#666666" showguides="false" showgrid="true" inkscape:cy="23.468267" borderlayer="true" inkscape:zoom="11.313709" pagecolor="#ffffff" inkscape:cx="36.425611">
+		<inkscape:grid  type="xygrid" id="grid4162"></inkscape:grid>
+		<sodipodi:guide  id="guide4163" orientation="46,0" position="1.0000013,47.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4165" orientation="0,45.999999" position="1.0000013,1.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4167" orientation="-46,0" position="47,1.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4169" orientation="0,-45.999999" position="47,47.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4173" orientation="44,0" position="2.0000007,46.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4175" orientation="0,43.999999" position="2.0000007,2.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4177" orientation="-44,0" position="46,2.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4179" orientation="0,-43.999999" position="46,46.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4183" orientation="42,0" position="3,45.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4187" orientation="-42,0" position="45,3.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4189" orientation="0,-42" position="45,45.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4193" orientation="42,0" position="3,45.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4195" orientation="0,42" position="3,3.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4197" orientation="-42,0" position="45,3.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4199" orientation="0,-42" position="45,45.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4203" orientation="7,0" position="3,10.000017"></sodipodi:guide>
+		<sodipodi:guide  id="guide4205" orientation="0,42" position="3,3.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4207" orientation="-7,0" position="45,3.0000174"></sodipodi:guide>
+		<sodipodi:guide  id="guide4209" orientation="0,-42" position="45,10.000017"></sodipodi:guide>
+	</sodipodi:namedview>
+	<g id="layer3" sodipodi:insensitive="true" inkscape:groupmode="layer" inkscape:label="Fake blur shadow">
+		<path id="rect3829" inkscape:connector-curvature="0" opacity="0.06" enable-background="new    " d="M20.833,2.083
+			c-10.417,0-18.75,8.333-18.75,18.75v58.333c0,10.417,8.333,18.75,18.75,18.75h58.333c10.417,0,18.75-8.333,18.75-18.75V20.833
+			c0-10.417-8.333-18.75-18.75-18.75H20.833z M21.875,3.125h56.25c10.417,0,18.75,8.333,18.75,18.75v56.25
+			c0,10.417-8.333,18.75-18.75,18.75h-56.25c-10.417,0-18.75-8.333-18.75-18.75v-56.25C3.125,11.458,11.458,3.125,21.875,3.125z"/>
+		<path id="rect3827" inkscape:connector-curvature="0" opacity="0.12" enable-background="new    " d="M21.875,3.125
+			c-10.417,0-18.75,8.333-18.75,18.75v56.25c0,10.417,8.333,18.75,18.75,18.75h56.25c10.417,0,18.75-8.333,18.75-18.75v-56.25
+			c0-10.417-8.333-18.75-18.75-18.75H21.875z M22.292,3.75H77.5c10.417,0,18.75,8.333,18.75,18.75v55.208
+			c0,10.417-8.333,18.75-18.75,18.75H22.292c-10.417,0-18.75-8.333-18.75-18.75V22.5C3.542,12.083,12.083,3.75,22.292,3.75z"/>
+		<path id="rect3038-4" opacity="0.24" enable-background="new    " d="M22.292,3.75H77.5c10.417,0,18.75,8.333,18.75,18.75v55.208
+			c0,10.417-8.333,18.75-18.75,18.75H22.292c-10.417,0-18.75-8.333-18.75-18.75V22.5C3.542,12.083,12.083,3.75,22.292,3.75z"/>
+	</g>
+	<g id="layer6" sodipodi:insensitive="true" inkscape:groupmode="layer" inkscape:label="Blob">
+		
+			<radialGradient id="rect4241_1_" cx="-17.2979" cy="132.34" r="22.9993" gradientTransform="matrix(2.174 0 0 0.4077 87.605 36.6902)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</radialGradient>
+		<path id="rect4241" inkscape:connector-curvature="0" opacity="0.3" fill="url(#rect4241_1_)" enable-background="new    " d="
+			M2.083,81.25c1.042,9.375,8.958,16.667,18.75,16.667h58.333c9.792,0,17.708-7.292,18.75-16.667H2.083z"/>
+	</g>
+	<g id="layer2" inkscape:groupmode="layer" inkscape:label="Baseplate">
+		
+			<linearGradient id="rect3038_1_" gradientUnits="userSpaceOnUse" x1="-12.92" y1="60.14" x2="-12.92" y2="16.14" gradientTransform="matrix(2.0833 0 0 -2.0833 76.9167 129.25)">
+			<stop  offset="0" style="stop-color:#539CD5"/>
+			<stop  offset="1" style="stop-color:#128EC9"/>
+		</linearGradient>
+		<path id="rect3038" fill="url(#rect3038_1_)" d="M22.917,3.958h54.167c10.417,0,18.75,8.333,18.75,18.75v54.167
+			c0,10.417-8.333,18.75-18.75,18.75H22.917c-10.417,0-18.75-8.333-18.75-18.75V22.708C4.167,12.292,12.5,3.958,22.917,3.958z"/>
+		<path id="path6396" inkscape:connector-curvature="0" fill="#FFFCFC" fill-opacity="0" d="M4.167,43.75h91.667v4.167H4.167V43.75z
+			"/>
+	</g>
+	<g id="layer4" sodipodi:insensitive="true" inkscape:groupmode="layer" inkscape:label="Inset">
+		<path id="rect3038-42" inkscape:connector-curvature="0" opacity="0.15" enable-background="new    " d="M4.167,70.833v6.25
+			c0,10.417,8.333,18.75,18.75,18.75h54.167c10.417,0,18.75-8.333,18.75-18.75v-6.25c0,10.417-8.333,18.75-18.75,18.75H22.917
+			C12.5,89.583,4.167,81.25,4.167,70.833z"/>
+	</g>
+	<g id="Layer_2">
+	</g>
+	<g id="Objects_1_" opacity="0.15">
+		<g id="g3436_1_">
+			<g id="g3438_1_">
+				<path id="path3440_1_" d="M41.458,44.542c3.75,0,6.667-2.917,6.667-6.667V24.333c0-3.75-2.917-6.667-6.667-6.667H20.625
+					c-3.75,0-6.667,2.917-6.667,6.667v13.542c0,3.75,2.917,6.667,6.667,6.667H41.458z"/>
+				<path id="path3442_1_" d="M71.458,50.792H26.25c-3.75,0-6.667,2.917-6.667,6.667V73.5c0,3.75,2.917,6.667,6.667,6.667h45.208
+					c3.75,0,6.667-2.917,6.667-6.667V57.458C78.125,53.917,75.208,50.792,71.458,50.792z"/>
+				<path id="path3444_1_" d="M79.375,17.458H65.208c-3.75,0-6.667,2.917-6.667,6.667v13.542c0,3.75,2.917,6.667,6.667,6.667h14.167
+					c3.75,0,6.667-2.917,6.667-6.667V24.125C86.042,20.375,83.125,17.458,79.375,17.458z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Objects">
+		<g id="g3436">
+			<g id="g3438">
+				<path id="path3440" fill="#FAFAFA" d="M41.458,43.542c3.75,0,6.667-2.917,6.667-6.667V23.333c0-3.75-2.917-6.667-6.667-6.667
+					H20.625c-3.75,0-6.667,2.917-6.667,6.667v13.542c0,3.75,2.917,6.667,6.667,6.667H41.458z"/>
+				<path id="path3442" fill="#FAFAFA" d="M71.458,49.792H26.25c-3.75,0-6.667,2.917-6.667,6.667V72.5
+					c0,3.75,2.917,6.667,6.667,6.667h45.208c3.75,0,6.667-2.917,6.667-6.667V56.458C78.125,52.917,75.208,49.792,71.458,49.792z"/>
+				<path id="path3444" fill="#FAFAFA" d="M79.375,16.458H65.208c-3.75,0-6.667,2.917-6.667,6.667v13.542
+					c0,3.75,2.917,6.667,6.667,6.667h14.167c3.75,0,6.667-2.917,6.667-6.667V23.125C86.042,19.375,83.125,16.458,79.375,16.458z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_3">
+</g>
+</svg>
