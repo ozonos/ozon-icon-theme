@@ -15,7 +15,10 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="geany.svg">
+   sodipodi:docname="geany.svg"
+   inkscape:export-filename="/home/cob/github/ozon-icon-theme/Icons/Ozon/48x48/apps/geany24.png"
+   inkscape:export-xdpi="46.959999"
+   inkscape:export-ydpi="46.959999">
   <defs
      id="defs4232">
     <linearGradient
@@ -720,11 +723,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.385417"
-     inkscape:cx="46.94643"
-     inkscape:cy="23.250553"
+     inkscape:zoom="5.6927085"
+     inkscape:cx="37.586937"
+     inkscape:cy="2.8435437"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4860"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -883,7 +886,7 @@
        transform="matrix(0.28187155,0,0,0.28187155,-87.098374,25.39762)"
        id="layer1-1">
       <g
-         transform="translate(-0.52570047,-7.0954303)"
+         transform="translate(-0.52570047,-3.191382)"
          id="g4746">
         <path
            style="opacity:1;fill:url(#radialGradient17172);fill-opacity:1;stroke:#a40000;stroke-width:6.59845257;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
