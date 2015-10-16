@@ -568,9 +568,9 @@
        xlink:href="#linearGradient4433"
        id="linearGradient4439"
        x1="31.078356"
-       y1="2.4725847"
+       y1="46.489983"
        x2="31.078356"
-       y2="69.366341"
+       y2="-12.481269"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-48,-47.999965)" />
     <linearGradient
@@ -645,8 +645,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="30.063828"
-     inkscape:cy="24.379722"
+     inkscape:cx="1.6911687"
+     inkscape:cy="22.437882"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
