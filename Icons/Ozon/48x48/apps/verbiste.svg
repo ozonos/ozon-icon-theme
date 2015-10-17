@@ -570,7 +570,7 @@
       <stop
          id="stop4220-8"
          offset="1"
-         style="stop-color:#3a64e2;stop-opacity:1" />
+         style="stop-color:#2c59e0;stop-opacity:1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -581,8 +581,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.4462801"
-     inkscape:cx="-5.1177919"
-     inkscape:cy="28.8976"
+     inkscape:cx="31.939674"
+     inkscape:cy="14.504945"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -743,30 +743,30 @@
        id="g4380"
        transform="translate(-0.917039,2.471045)">
       <g
-         transform="translate(57.927828,1.5436076)"
+         transform="translate(58.776648,0.535955)"
          id="g4327-6"
-         style="display:inline;fill:#3c538d;fill-opacity:1;stroke:none;stroke-opacity:1">
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;opacity:0.15">
         <path
-           style="fill:#3c538d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m -44.398609,11.986288 0,2 L -36,14 l 0,-2 z"
            id="path4321-9"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
         <path
-           style="fill:#3c538d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m -28.986962,12 6.466192,0 0,2 -6.466192,0 z"
            id="path4323-1"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
         <path
            sodipodi:nodetypes="cccccccc"
-           style="fill:#3c538d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="M -24.883654,13.689744 -33,32 l -2,0 -8,-19 5,0 5.379487,13.473718 5.717468,-12.70641 z"
            id="path4325-8"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(58.836538,-0.15512823)"
+         transform="translate(58.240445,-0.471045)"
          id="g4327">
         <path
            style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
