@@ -484,9 +484,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="25.252639"
-     inkscape:cy="36.043912"
+     inkscape:zoom="11.313708"
+     inkscape:cx="38.391733"
+     inkscape:cy="41.35268"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -750,22 +750,22 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.54799986;marker:none;enable-background:accumulate"
-       d="m 21.71875,1.9999964 7.5625,7.53125 -7.5625,7.4687506 7.0625,0 7.65625,-7.4375006 -7.5625,-7.5625 z"
+       d="m 21.71875,1.9999964 7.5625,7.53125 c 2.71875,0 3.71875,0.03125 7.15625,0.03125 l -7.5625,-7.5625 z"
        id="rect3859-1-6-0-2-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.54799986;marker:none;enable-background:accumulate"
-       d="m 11,1.9999964 c -0.900832,0 -1.774315,0.1308867 -2.59375,0.375 l 7.1875,7.15625 -7.5625,7.4687506 7.0625,0 7.65625,-7.4375006 -7.59375,-7.5625 z"
+       d="m 11,1.999996 c -0.900832,0 -1.774315,0.130887 -2.59375,0.375 l 7.1875,7.15625 C 20,9.531246 18,9.562496 22.75,9.562496 l -7.59375,-7.5625 z"
        id="rect3859-1-6-0-1-6-31"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccccccs" />
+       sodipodi:nodetypes="sccccs" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.54799986;marker:none;enable-background:accumulate"
-       d="m 35.375,1.9999964 7.5625,7.53125 -7.5625,7.4687506 7.0625,0 3.5625,-3.375001 0,-2.625 C 46,6.0139964 41.986,1.9999964 37,1.9999964 Z"
+       d="m 35.375,1.9999964 7.5625,7.53125 C 45,9.5312464 46,11 46,13.624996 l 0,-2.625 C 46,6.0139964 41.986,1.9999964 37,1.9999964 Z"
        id="rect3859-1-6-0-1-4-1-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccssc" />
+       sodipodi:nodetypes="cccssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#171717;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.54799986;marker:none;enable-background:accumulate"
        d="m 46,13.562496 -3.59375,3.437501 3.59375,0 z"
