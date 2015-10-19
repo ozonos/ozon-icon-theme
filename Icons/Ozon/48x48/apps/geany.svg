@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="geany.svg"
-   inkscape:export-filename="/home/cob/github/ozon-icon-theme/Icons/Ozon/48x48/apps/geany-48.png"
-   inkscape:export-xdpi="93.910004"
-   inkscape:export-ydpi="93.910004">
+   inkscape:export-filename="/home/cob/github/ozon-icon-theme/Icons/Ozon/48x48/apps/geany-24.png"
+   inkscape:export-xdpi="46.95652"
+   inkscape:export-ydpi="46.95652">
   <defs
      id="defs4232">
     <linearGradient
@@ -1008,7 +1008,7 @@
        x2="42.731876"
        y2="17"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5247312,0,0,1.7092872,-27.840858,-5.0578858)" />
+       gradientTransform="matrix(1.2610295,0,0,1.2342451,-18.875001,3.0178319)" />
     <radialGradient
        cx="22.999998"
        cy="28.5"
@@ -1046,9 +1046,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6927084"
-     inkscape:cx="-4.7391857"
-     inkscape:cy="-2.7642658"
+     inkscape:zoom="11.385417"
+     inkscape:cx="3.5963344"
+     inkscape:cy="16.352504"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1207,7 +1207,7 @@
        rx="9" />
     <path
        inkscape:connector-curvature="0"
-       d="M 23.999993,5.0379552 11.813772,23.999996 23.999993,42.962045 36.186228,23.999996 23.999993,5.0379552 Z"
+       d="M 23.999993,10.307854 13.921375,23.999996 23.999993,37.692146 34.078625,23.999996 23.999993,10.307854 Z"
        id="path17168-94-3"
        style="display:inline;opacity:0.506;fill:url(#linearGradient4788);fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
