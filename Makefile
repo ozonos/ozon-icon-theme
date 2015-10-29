@@ -22,8 +22,6 @@ local:
 	#Create dir if not exist
 	mkdir -p $(INSTALLDIR)
 
-	clear
-
 	#Copy new contents in
 	cp -rf $(UUID)/* $(INSTALLDIR)
 
